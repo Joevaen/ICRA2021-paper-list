@@ -7,158 +7,251 @@ The ICRA 2021 conference promises to be a great event with excellent technical a
 This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoRobot) , the Chinese academic nonprofit organization. Welcome to follow our github and our WeChat Public Platform Account ( [paopaorobot_slam](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=100000102&idx=1&sn=0a8a831a4f2c18443dbf436ef5d5ff8c&chksm=6c10bf625b6736748c9612879e166e510f1fe301b72ed5c5d7ecdd0f40726c5d757e975f37af&mpshare=1&scene=1&srcid=0530KxSLjUE9I38yLgfO2nVm&pass_ticket=0aB5tcjeTfmcl9u0eSVzN4Ag4tkpM2RjRFH8DG9vylE%3D#rd) ). Of course, you could contact with [@Yvon Shong](https://github.com/yvonshong).
 
 
-| title | index |
-| ---  | ----  |
+| title | index | summary |
+| ---  | ----  | ---- |
 | **Session** TuHT24 : Active Perception in Robotics |  |
 |Active Bayesian Multi-Class Mapping from Range and Semantic Segmentation Observations | 1|
 |Attention-Based Probabilistic Planning with Active Perception | 8|
 |Search-Based Planning for Active Sensing in Goal-Directed Coverage Tasks | 15|
 |Bearing-Only Active Sensing under Merged Measurements | 22|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT24 : Adaptive Robotic Systems |  |
 |Robust Adaptive Synchronization of Interconnected Heterogeneous Quadrotors Transporting a Cable-Suspended Load | 31|
 |Adaptive Failure Search Using Critical States from Domain Experts | 38|
 |Policy Transfer Via Kinematic Domain Randomization and Adaptation | 45|
 |Uniform Complete Observability of Mass and Rotational Inertial Parameters in Adaptive Identification of Rigid-Body Plant Dynamics | 52|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT24 : Aerial Robotics |  |
 |A Tethered Quadrotor UAV-Buoy System for Marine Locomotion | 59|
 |Power Line Inspection Tasks with Multi-Aerial Robot Systems Via Signal Temporal Logic  Specifications | 66|
 |Distributed Formation Estimation Via Pairwise Distance Measurements | 74|
 |Distributed Variable-Baseline Stereo SLAM from Two UAVs | 82|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET24 : Aerial Robotics: Control I |  |
 |Fast Sampling-Based Next-Best-View Exploration Algorithm for a MAV | 89|
 |Neuromorphic Control for Optic-Flow-Based Landing of MAVs Using the Loihi Processor | 96|
 |Event-Driven Vision and Control for UAVs on a Neuromorphic Chip | 103|
 |Deep Neuromorphic Controller with Dynamic Topology for Aerial Robots | 110|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT23 : Aerial Robotics: Control II |  |
 |Adaptive Stiffness Estimation Impedance Control for Achieving Sustained Contact in Aerial Manipulation | 117|
 |Model Predictive Control for Dynamic Quadrotor Bearing Formations | 124|
 |Direct Force and Pose NMPC with Multiple Interaction Modes for Aerial Push-And-Slide Operations | 131|
 |Motor and Perception Constrained NMPC for Torque-Controlled Generic Aerial Vehicles | 138|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeAT18 : Aerial Robotics: Control III |  |
 |Conquering Textureless with RF-Referenced Monocular Vision for MAV State Estimation | 146|
 |Control of an Aerial Manipulator Using a Quadrotor with a Replaceable Robotic Arm | 153|
 |Self-Triggered Based Coordinate Control with Low Communication for Tethered Multi-UAV  Collaborative Transportation | 160|
 |Flying with Damaged Wings: The Effect on Flight Capacity and Bio-Inspired Coping Strategies of a  Flapping Wing Robot | 168|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT23 : Aerial Robotics: Design and Mechanism I |  |
 |Collision-Free Vector Field Guidance and MPC for a Fixed-Wing UAV | 176|
 |Toward Impact-resilient Quadrotor Design, Collision Characterization and Recovery Control to  Sustain Flight after Collisions | 183|
 |H-ModQuad: Modular Multi-Rotors with 4, 5, and 6 Controllable DOF | 190|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT23 : Aerial Robotics: Design and Mechanism II |  |
 |The Catenary Robot: Design and Control of a Cable Propelled by Two Quadrotors | 197|
 |Aerial Multi-Camera Robotic Jib Crane | 203|
 |Design, Sensing, and Control of a Novel UAV Platform for Aerial Drilling and Screwing | 209|
 |Freyja: A Full Multirotor System for Agile & Precise Outdoor Flights | 217|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT24 : Aerial Robotics: Detection |  |
 |Context-Dependent Anomaly Detection for Low Altitude Traffic Surveillance | 224|
 |GridNet: Image-Agnostic Conditional Anomaly Detection for Indoor Surveillance | 231|
 |Autonomous Flying into Buildings in a Firefighting Scenario | 239|
 |LoLa-SLAM: Low-latency LiDAR SLAM using Continuous Scan Slicing | 246|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT23 : Aerial Robotics: Learning and Adaptive Systems |  |
 |Learning-Based Bias Correction for Time Difference of Arrival Ultra-Wideband Localization of  Resource-Constrained Mobile Robots | 254|
 |CVaR-Based Flight Energy Risk Assessment for Multirotor UAVs Using a Deep Energy Model | 262|
 |Hypergame-Based Adaptive Behavior Path Planning for Combined Exploration and Visual Search | 269|
 |Morphologically Adapatative Quad-Rotor Towards Acquiring High-Performance Flight: A  Comparative Study and Validation | 276|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT24 : Aerial Robotics: Mechanics and Control I |  |
 |Fixed-root Aerial Manipulator: Design, Modeling, and Control of Multilink Aerial Arm to Adhere Foot  Module to Ceilings using Rotor Thrust | 283|
 |Aerial Manipulator Pushing a Movable Structure Using a DOB-Based Robust Controller | 290|
 |Data-Driven MPC for Quadrotors | 298|
 |Singularity-Free Aerial Deformation by Two-Dimensional Multilinked Aerial Robot with 1-DoF  Vectorable Propeller | 306|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT24 : Aerial Robotics: Mechanics and Control II |  |
 |Underwater Stability of a Morphable Aerial-Aquatic Quadrotor with Variable Thruster Angles | 314|
 |Development of Flapping Robot with Self-Takeoff from The Ground Capability | 321|
 |Fast-Tracker: A Robust Aerial System for Tracking Agile Target in Cluttered Environments | 328|
 |Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex  Environments | 335|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT24 : Aerial Robotics: Optimization |  |
 |Practical and Accurate Generation of Energy-Optimal Trajectories for a Planar Quadrotor | 355|
 |Optimization-Based Trajectory Planning for Tethered Aerial Robots | 362|
 |A Novel Robust Hexarotor Capable of Static Hovering in Presence of Propeller Failure | 369|
 |Optimal Tuning of the Lateral-Dynamics Parameters for Aerial Vehicles with Bounded Lateral  Force | 377|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT24 : Aerial Robotics: Planning and Control |  |
 |Estimation and Adaption of Indoor Ego Airflow Disturbance with Application to Quadrotor Trajectory  Planning | 384|
 |Real-Time Active Detection of Targets and Path Planning Using UAVs | 391|
 |EVA-Planner: Environmental Adaptive Quadrotor Planning | 398|
 |EGO-Planner: An ESDF-Free Gradient-Based Local Planner for Quadrotors | 405|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT23 : Aerial Robotics: Sensing and Control I |  |
 |MorphEyes: Variable Baseline Stereo for Quadrotor Navigation | 413|
 |A Drive-Through Recharging Strategy for a Quadrotor | 420|
 |Continuous-time State & Dynamics Estimation Using a Pseudo-Spectral Parameterization | 426|
 |Use of a MEMS Differential Pressure Sensor to Detect Ground, Ceiling, and Walls on Small  Quadrotors | 433|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT21 : Aerial Robotics: Sensing and Control II |  |
 |UAV Localization Using Autoencoded Satellite Images | 441|
 |Cooperative Transportation of Cable Suspended Payloads with MAVs Using Monocular Vision and  Inertial Sensing | 449|
 |Tracking and Relative Localization of Drone Swarms with a Vision-Based Headset | 458|
 |SelfDeco: Self-Supervised Monocular Depth Completion in Challenging Indoor Environments | 467|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT21 : Aerial Robotics: Space Robotics and Automation |  |
 |An Anytime Algorithm for Chance Constrained Stochastic Shortest Path Problems and Its  Application to Aircraft Routing | 475|
 |An Intention Guided Hierarchical Framework for Trajectory-Based Teleoperation of Mobile Robots | 482|
 |Distance Estimation Using Self-Induced Noise of an Aerial Vehicle | 489|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeBT18 : Aerial Robotics: Tracking |  |
 |ADTrack: Target-Aware Dual Filter Learning for Real-Time Anti-Dark UAV Tracking | 496|
 |Mutation Sensitive Correlation Filter for Real-Time UAV Tracking with Adaptive Hybrid Label | 503|
 |Siamese Anchor Proposal Network for High-Speed Aerial Tracking | 510|
 |Computationally Efficient Trajectory Planning for High Speed Obstacle Avoidance of a Quadrotor  with Active Sensing | 517|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET22 : Aerial Systems: Mechanics and Control |  |
 |Novel Omnidirectional Aerial Manipulator with Elastic Suspension: Dynamic Control and  Experimental Performance Assessment | 525|
 |Improving Dynamics of an Aerial Manipulator with Elastic Suspension Using Nonlinear Model  Predictive Control | 533|
 |Design of the High-Payload Flapping Wing Robot E-Flap | 540|
 | Fernández, Francisco Javier; Sanchez-Laulhe, Ernesto; Grau, Pedro; Perez Capote, Martin;  |  |
 |Acosta, Jose Angel; Ollero, Anibal Pneumatic-Mechanical Systems in UAVs: Autonomous Power Line Sensor Unit Deployment | 548|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT22 : Aerial Systems: Multi-Robots |  |
 |A Multi-UAV System for Detection and Elimination of Multiple Targets | 555|
 |Optic Flow-Based Reactive Collision Prevention for MAV Using Fictitious Obstacle Hypothesis | 562|
 |Autonomous Aerial Swarming in GNSS-denied Environments with High Obstacle Density | 570|
 |Forceful Aerial Manipulation Based on an Aerial Robotic Chain: Hybrid Modeling and Control | 577|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET23 : Aerial Systems: Perception and Autonomy |  |
 |Combined System Identification and State Estimation for a Quadrotor UAV | 585|
 |Geometry-Aware Compensation Scheme for Morphing Drones | 592|
 |Autonomous Quadrotor Flight despite Rotor Failure with Onboard Vision Sensors: Frames vs.  Events | 599|
 |SplatPlanner: Efficient Autonomous Exploration Via Permutohedral Frontier Filtering | 608|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT22 : Applications of Micro and Nano Robotics I |  |
 |Parallel Actuation of Nanorod Swarm and Nanoparticle Swarm to Different Targets | 616|
 |Robotic Micromanipulation for Active Pin Alignment in Electronic Soldering Industry | 623|
 |In-Situ Bonding of Multilayer Microfluidic Devices Assisted by a Fully-Automated Aligning System | 629|
 |Robotic Handling of Micro-Objects Using Stochastic Optically-Actuated End-Effector | 635|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT22 : Applications of Micro and Nano Robotics II |  |
 |Design of Soft Sensor for Feedback Control of Bio-Actuator Powered by Skeletal Muscle | 643|
 |Molecular Transport of a Magnetic Nanoparticle Swarm towards Thrombolytic Therapy | 649|
 |Efficient Single Cell Mechanical Measurement by Integrating a Cell Arraying Microfluidic Device  with Magnetic Tweezer | 657|
 |A Portable Acoustofluidic Device for Multifunctional Cell Manipulation and Reconstruction | 664|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT23 : Applications of Robotic Exploration |  |
 |Design and Soft-Landing Control of a Six-Legged Mobile Repetitive Lander for Lunar Exploration | 670|
 |LEAF: Latent Exploration Along the Frontier | 677|
 |LAFFNet: A Lightweight Adaptive Feature Fusion Network for Underwater Image Enhancement | 685|
 |Ultrasound Doppler Imaging and Navigation of Collective Magnetic Cell Microrobots in Blood | 693|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT23 : Automation and Industrial Robotics |  |
 |Automated Generation of Robot Trajectories for Assembly Processes Requiring Only Sparse  Manual Input | 700|
 |Benchmarking Real-Time Capabilities of ROS 2 and OROCOS for Robotics Applications | 708|
 |The KIT Gripper: A Multi-Functional Gripper for Disassembly Tasks | 715|
 |In-Process Workpiece Geometry Estimation for Robotic Arc Welding Based on Supervised  Learning for Multi-Sensor Inputs | 722|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT0 : Automation Award Session |  |
 |A General-Purpose Anomalous Scenario Synthesizer for Rotary Equipment | 729|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeAT17 : Automation I |  |
 |Viko: An Adaptive Gecko Gripper with Vision-Based Tactile Sensor | 736|
 |POIS: Policy-Oriented Instance Segmentation for Ambidextrous Robot Picking | 743|
 |Learning-Based Predictive Path Following Control for Nonlinear Systems under Uncertain  Disturbances | 750|
 |Thrust Enhancement of Wave-Driven Unmanned Surface Vehicle by Using Asymmetric Foil | 758|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeBT17 : Automation II |  |
 |Proactive Action Visual Residual Reinforcement Learning for Contact-Rich Tasks Using a Torque-Controlled Robot | 765|
 |ParametricNet: 6DoF Pose Estimation Network for Parametric Shapes in Stacked Scenarios | 772|
 |Optimal Online Dispatch for High-Capacity Shared Autonomous Mobility-On-Demand Systems | 779|
 |An Improved Magnetic Spot Navigation for Replacing the Barcode Navigation in Automated Guided  Vehicles | 786|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT22 : Automation: Machine Learning I |  |
 |Model-Based Reinforcement Learning with Provable Safety Guarantees Via Control Barrier Functions | 792|
 |Continual Model-Based Reinforcement Learning with Hypernetworks | 799|
 |Reinforcement Learning Based Temporal Logic Control with Maximum Probabilistic Satisfaction | 806|
 |Solving Markov Decision Processes with Partial State Abstractions | 813|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT22 : Automation: Machine Learning II |  |
 |Exploiting Object Similarity for Robotic Visual Recognition | 820|
 |Team Assignment for Heterogeneous Multi-Robot Sensor Coverage through Graph  Representation Learning | 838|
 |GPR-Based Model Reconstruction System for Underground Utilities Using GPRNet | 845|
 |Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter | 852|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT24 : Automation: Manufacturing |  |
 |Optimizing Part Placement for Improving Accuracy of Robot-Based Additive Manufacturing | 859|
 |Automated Mosquito Salivary Gland Extractor for PfSPZ-Based Malaria Vaccine Production | 866|
 |Safe Tumbling of Heavy Objects Using a Two-Cable Crane | 873|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT24 : Automation: Performance Metrics |  |
 |Beelines: Motion Prediction Metrics for Self-Driving Safety and Comfort | 881|
 |NeilFrom Manual Operation to Collaborative Robot Assembly: An Integrated Model of Productivity and  Ergonomic Performance | 888|
@@ -167,11 +260,17 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 | Mark; Chui, Jackson; Shao, Yuqiao; Huang, Huang; Kotani, Atsunobu; Sharma, Satvik;  |  |
 | Parikh, Rishi; Luo, Michael; Mukherjee, Sandeep; Carpin, Stefano; Viers, Joshua;  |  |
 | Vougioukas, Stavros; Goldberg, Ken |  |
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT22 : Automation: Sensors and Grasping |  |
 |Detect, Reject, Correct: Crossmodal Compensation of Corrupted Sensors | 909|
 |Advanced Sensing Development to Support Robot Accuracy Assessment and Improvement | 917|
 |Robotic Grasping of Fully-Occluded Objects Using RF Perception | 923|
 |A Simulation-Based Grasp Planner for Enabling Robotic Grasping During Composite Sheet Layup | 930|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT23 : Autonomous Driving |  |
 |IDE-Net: Interactive Driving Event and Pattern Extraction from Human Data | 938|
 |HD Map Update for Autonomous Driving With Crowdsourced Data | 946|
@@ -181,64 +280,106 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |Assembly Sequences Based on Multiple Criteria Against Products with Deformable Parts | 975|
 |A Versatile End-Effector for Pick-And-Release of Fabric Parts | 982|
 |A Soft Robotic Hand Based on Bellows Actuators for Dishwashing Automation | 990|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT21 : Autonomous Navigation I |  |
 |Shared Autonomy for Teleoperated Driving: A Real-Time Interactive Path Planning Approach | 999|
 |Comfortable and Safe Decelerations for a Self-Driving Transit Bus | 1005|
 |A Unified Approach for Autonomous Volumetric Exploration of Large Scale Environments under  Severe Odometry Drift | 1012|
 |Urban Driving Games with Lexicographic Preferences and Socially Efficient Nash Equilibria | 1020|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT22 : Autonomous Navigation II |  |
 |Amortized Q-Learning with Model-Based Action Proposals for Autonomous Driving on Highways | 1028|
 |Decision Making for Autonomous Driving Via Augmented Adversarial Inverse Reinforcement  Learning | 1036|
 |Interpretable Goal-based Prediction and Planning for Autonomous Driving | 1043|
 |Encoding Human Driving Styles in Motion Planning for Autonomous Vehicles | 1050|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT22 : Autonomous Navigation III |  |
 |Mesh Manifold Based Riemannian Motion Planning for Omnidirectional Micro Aerial Vehicles | 1057|
 |What Data Do We Need for Training an AV Motion Planner? | 1066|
 |Learn to Path: Using Neural Networks to Predict Dubins Path Characteristics for Aerial Vehicles in  Wind | 1073|
 |Where to Go Next: Learning a Subgoal Recommendation Policy for Navigation among Pedestrians | 1080|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT21 : Autonomous Vehicle Navigation I |  |
 |Deep Reinforcement Learning for Mapless Navigation of a Hybrid Aerial Underwater Vehicle with  Medium Transition | 1088|
 |NF-iSAM: Incremental Smoothing and Mapping via Normalizing Flows | 1095|
 |UPSLAM: Union of Panoramas SLAM | 1103|
 |RELLIS-3D Dataset: Data, Benchmarks and Analysis | 1110|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT21 : Autonomous Vehicle Navigation II |  |
 |Fast Path Computation Using Lattices in the Sensor-Space for Forest Navigation | 1117|
 |Learning Barrier Functions with Memory for Robust Safe Navigation | 1124|
 |Hierarchical Object Map Estimation for Efficient and Robust Navigation | 1132|
 |Robot Navigation in Constrained Pedestrian Environments Using Reinforcement Learning | 1140|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT4 : Best Paper Award Session |  |
 |An Artin Braid Group Representation of Knitting Machine State with Applications to Validation and  Optimization of Fabrication Plans | 1147|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT4 : Best Student Paper Award Session |  |
 |Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator | 1154|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT21 : Biologically-Inspired Robots |  |
 |Multiphysics Simulation of Magnetically Actuated Robotic Origami Worms | 1162|
 |Spherical Magnetic Joint for Inverted Locomotion of Multi-Legged Robot | 1170|
 |An Open-Source Mechanical Design of ALARIS Hand: A 6-DOF Anthropomorphic Robotic Hand | 1177|
 |Biomimetic Operational Space Control for Musculoskeletal Humanoid Optimizing across Muscle  Activation and Joint Nullspace | 1184|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT21 : Biomedical Robotics I |  |
 |Orientation Control of an Electromagnetically Actuated Soft-Tethered Colonoscope Based on 2OR  Pseudo-Rigid-Body Model | 1191|
 |An Integrated High-Dexterity Cooperative Robotic Assistant for Intraocular Micromanipulation | 1198|
 |A Sigmoid-Colon-Straightening Soft Actuator With Peristaltic Motion for Colonoscopy Insertion  Assistance: Easycolon | 1205|
 |A Miniature Manipulator with Variable Stiffness towards Minimally Invasive Transluminal  Endoscopic Surgery | 1213|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeBT15 : Biomedical Robotics II |  |
 |A Magnetic Continuum Robot with Multi-Mode Control Using Opposite-Magnetized Magnets | 1221|
 |Magnetically-Connected Modular Reconfigurable Mini-Robotic System with Bilateral Isokinematic  Mapping and Fast On-Site Assembly towards Minimally Invasive Procedures | 1229|
 |Reinforcement Learning Control of a Novel Magnetic Actuated Flexible-Joint Robotic Camera  System for Single Incision Laparoscopic Surgery | 1236|
 |Muscular Stimulation Based Biological Actuator from Locust’s Hindleg | 1242|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeCT6 : Biomedical Robotics III |  |
 |Three-Dimensional Positioning of the Micropipette for Intracytoplasmic Sperm Injection | 1249|
 |Robotic Cardinal Vein Microinjection of Zebrafish Larvae Based on 3D Positioning | 1256|
 |Modeling and Simulation of Running Expansion with Trunk and Pelvic Rotation Assist Suit | 1263|
 |A Bipolar Myoelectric Sensor-Enabled Human-Machine Interface Based on Spinal Module  Activations | 1269|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT0 : Cognitive Robotics Award Session |  |
 |Learning Task Space Actions for Bipedal Locomotion | 1276|
 |Learning Sampling Distributions Using Local 3D Workspace Decompositions for Motion Planning  in High Dimensions | 1283|
 |Auto-Tuned Sim-To-Real Transfer | 1290|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET21 : Computer Vision for Automation |  |
 |A Metric Space Perspective on Self-Supervised Policy Adaptation | 1297|
 |Efficient Recovery of Multi-Camera Motion from Two Affine Correspondences | 1305|
 |Dynamic-Aware Autonomous Exploration in Populated Environments | 1312|
 |Goal-Conditioned End-To-End Visuomotor Control for Versatile Skill Primitives | 1319|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT21 : Computer Vision in Medical Robotics |  |
 |Towards Standardized Acquisition with a Dual-Probe Ultrasound Robot for Fetal Imaging | 1326|
 | Matthew, Jackeline; Noh, Yohan; Eltiraifi, Olla; Singh, Anisha; Singh, Davinder; Rhode,  |  |
@@ -246,16 +387,25 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |A Kinematic Bottleneck Approach for Pose Regression of Flexible Surgical Instruments Directly  from Images | 1333|
 |Robotic instrument segmentation with image-to-image translation | 1341|
 |Surgical Gesture Recognition Based on Bidirectional Multi-Layer Independently RNN with  Explainable Spatial Feature Extraction | 1350|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT21 : Contact and Collision Control |  |
 |Safe Impacts with Soft Contacts Based on Learned Deformations | 1357|
 |A State-Dependent Damping Method to Reduce Collision Force and Its Variability | 1364|
 |Contact Forces Preintegration for Estimation in Legged Robotics Using Factor Graphs | 1372|
 |Overload Clutch Design for Collision Tolerant High–Speed Industrial Robots | 1379|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT19 : Continuum Robotics I |  |
 |Learning-Based Inverse Kinematics from Shape As Input for Concentric Tube Continuum Robots | 1387|
 |Effect of External and Internal Loads on Tension Loss of Tendon-Driven Continuum Manipulators | 1394|
 |Using Euler Curves to Model Continuum Robots | 1402|
 |Optimal Design of Continuum Robots with Reachability Constraints | 1409|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT19 : Continuum Robotics II |  |
 |Design Considerations for a Steerable Needle Robot to Maximize Reachable Lung Volume | 1418|
 | Margaret; Granna, Josephine; Kuntz, Alan; Akulian, Jason; Webster III, Robert James;  |  |
@@ -263,21 +413,33 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |An Active Steering Hand-Held Robotic System for Minimally Invasive Orthopaedic Surgery Using a  Continuum Manipulator | 1426|
 |Design of a Reconfigurable Parallel Continuum Robot with Tendon-Actuated Kinematic Chains | 1434|
 |Design and Control of a Hand-Held Concentric Tube Robot for Minimally Invasive Surgery | 1442|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT19 : Continuum Robotics III |  |
 |Deep Reinforcement Learning for Concentric Tube Robot Control with a Goal-Based Curriculum | 1459|
 |Optimized 3D Path Planner for Steerable Catheters with Deductive Reasoning | 1466|
 |Robotic Electrospinning Actuated by Non-Circular Joint Continuum Manipulator for Endoluminal  Therapy | 1473|
 |Autonomous Steering of Concentric Tube Robots Via Nonlinear Model Predictive Control | 1480|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT19 : Control and Optimization I |  |
 |Online Informative Path Planning for Active Information Gathering of a 3D Surface | 1488|
 |EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities | 1495|
 |Advancing Mixture Models for Least Squares Optimization | 1503|
 |Online Extrinsic Calibration Based on Per-Sensor Ego-Motion Using Dual Quaternions | 1512|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT23 : Control and Optimization II |  |
 |A Class of Optimal Switching Mixed Data Injection Attack in Cyber-Physical Systems | 1520|
 |Observation Space Matters: Benchmark and Optimization Algorithm | 1527|
 |Interleaving Fast and Slow Decision Making | 1535|
 |Multi-output Infinite Horizon Gaussian Processes | 1542|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT21 : Control Applications |  |
 |Faithful Euclidean Distance Field from Log-Gaussian Process Implicit Surfaces | 1550|
 |Force Control of a Hydraulic Actuator with a Neural Network Inverse Model | 1558|
@@ -287,105 +449,168 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |Decentralized Connectivity Maintenance with Time Delays Using Control Barrier Functions | 1586|
 |Haptic-Enabled Decentralized Control of a Heterogeneous Human-Robot Team for Search and  Rescue in Partially-Known Environments | 1593|
 |Multi-Robot Implicit Control of Herds | 1601|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT19 : Control of Manipulation I |  |
 |Real-Time Friction Estimation for Grip Force Control | 1608|
 |Uncertainty-Aware Deep Learning for Robot Touch: Application to Bayesian Tactile Servo Control | 1615|
 |Towards Integrated Tactile Sensorimotor Control in Anthropomorphic Soft Robotic Hands | 1622|
 |Simultaneous Tactile Exploration and Grasp Refinement for Unknown Objects | 1629|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT20 : Control of Manipulation II |  |
 |An Efficient Approach to Closed-Loop Shape Control of Deformable Objects Using Finite Element  Models | 1637|
 |Learning Stable Normalizing-Flow Control for Robotic Manipulation | 1644|
 |Model Predictive Robot-Environment Interaction Control for Mobile Manipulation Tasks | 1651|
 |Bilateral Teleoperation with Adaptive Impedance Control for Contact Tasks | 1658|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT20 : Control Theory IMathematical Modeling of a Highly Underactuated Tool for Draping Fiber Plies on Double Curved  |  |
 |Molds | 1666|
 |A General Framework to Increase Safety of Learning Algorithms for Dynamical Systems Based on  Region of Attraction Estimation | 1673|
 |A Weighted Method for Fast Resolution of Strictly Hierarchical Robot Task Specifications Using  Exact Penalty Functions | 1692|
 |On-Line Force Capability Evaluation Based on Efficient Polytope Vertex Search | 1700|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET20 : Control Theory II |  |
 |Actuating Eigenmanifolds of Conservative Mechanical Systems Via Bounded or Impulsive Control  Actions | 1707|
 |Robust Frequency-Based Structure Extraction | 1715|
 |A Hybrid Collision Model for Safety Collision Control | 1722|
 |Jerk Control of Floating Base Systems with Contact-Stable Parametrised Force Feedback | 1729|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT23 : Control Theory III |  |
 |Spherical Multi-Modal Place Recognition for Heterogeneous Sensor Systems | 1743|
 |A Multi-Resolution Frontier-Based Planner for Autonomous 3D Exploration | 1751|
 |A Direct Collocation Method for Optimization of EMG-Driven Wrist Muscle Musculoskeletal Model | 1759|
 |A Simple Visual-Servoing Task on a Low-Accuracy, Low-Cost Arm | 1766|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT20 : Data-Driven Model Estimation |  |
 |Efficient Dynamics Estimation with Adaptive Model Sets | 1775|
 |Data-Driven Actuator Selection for Artificial Muscle-Powered Robots | 1783|
 |EMG-Based Neural Network Model of Human Arm Dynamics in a Haptic Training Simulator of  Sinus Endoscopy | 1790|
 |Multimodal Dynamics Modeling for Off-Road Autonomous Vehicles | 1796|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT20 : Deep Learning in Robotics and Automation |  |
 |Stabilizing Neural Control Using Self-Learned Almost Lyapunov Critics | 1803|
 |Regularizing Action Policies for Smooth Control with Reinforcement Learning | 1810|
 |DeepReach: A Deep Learning Approach to High-Dimensional Reachability | 1817|
 |Deep Reinforcement Learning for Active Target Tracking | 1825|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT20 : Deep Learning in Robotics I |  |
 |Long-Range Hand Gesture Recognition Via Attention-Based SSD Network | 1832|
 |Spectral Temporal Graph Neural Network for Trajectory Prediction | 1839|
 |Dark Reciprocal-Rank: Teacher-To-Student Knowledge Transfer from Self-Localization Model to  Graph-Convolutional Neural Network | 1846|
 |Efficient SE(3) Reachability Map Generation Via Interplanar Integration of Intra-Planar Convolutions | 1854|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT20 : Deep Learning in Robotics IIFlowDriveNet: An End-To-End Network for Learning Driving Policies from Image Optical Flow and  |  |
 |LiDAR Point Flow | 1861|
 |PocoNet: SLAM-Oriented 3D LiDAR Point Cloud Online Compression Network | 1868|
 |3D Reconstruction of Deformable Colon Structures Based on Preoperative Model and Deep Neural  Network | 1875|
 |DenseLiDAR: A Real-Time Pseudo Dense Depth Guided Depth Completion Network | 1882|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT20 : Distributed Robotic Systems |  |
 |Distributed Full-Consensus Control of Multi-Robot Systems with Range and Field-Of-View  Constraints | 1890|
 |Scalable Recursive Distributed Collaborative State Estimation for Aided Inertial Navigation | 1896|
 |Distributed Multi-Target Tracking in Camera Networks | 1903|
 |GenGrid: A Generalised Distributed Experimental Environmental Grid for Swarm Robotics | 1910|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT20 : Dynamic Manipulation |  |
 |Nth Order Analytical Time Derivatives of Inverse Dynamics in Recursive and Closed Forms | 1918|
 |Robot Dynamics Identification: A Reproducible Comparison with Experiments on the KINOVA  Jaco2 | 1925|
 |Efficient Configuration Exploration in Inverse Dynamics Acquisition of Robotic Manipulators | 1934|
 |Dynamic Manipulation of Deformable Objects with Implicit Integration | 1942|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT18 : Dynamic Modeling |  |
 |Learning to Propagate Interaction Effects for Modeling Deformable Linear Objects Dynamics | 1950|
 |Modal Dynamic Modelling and Experimental Validation of a Curved Extensible Continuum  Manipulator | 1958|
 |A Hybrid Dynamical Modeling Framework for Shape Memory Alloy Wire Actuated Structures | 1966|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET18 : Dynamics and Control I |  |
 |Switching Control in Two-Wheeled Self-Balancing Robots | 1974|
 |Smith-Predictor-Based Torque Control of a Rolling Diaphragm Hydrostatic Transmission | 1981|
 |A Unified MPC Framework for Whole-Body Dynamic Locomotion and Manipulation | 1989|
 |Speed Gain in Elastic Joint Robots: An Energy Conversion-Based Approach | 1997|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT20 : Dynamics and Control II |  |
 |No-Frills Dynamic Planning Using Static Planners | 2005|
 |PCMPC: Perception-Constrained Model Predictive Control for Quadrotors with Suspended Loads  Using a Single Camera and IMU | 2012|
 |Learning Agile Locomotion Skills with a Mentor | 2019|
 |Automating Behavior Selection for Affective Telepresence Robot | 2026|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT19 : Dynamics and Control III |  |
 |Transition Motion Planning for Multi-Limbed Vertical Climbing Robots Using Complementarity  Constraints | 2033|
 |Inverse Dynamics Control of Compliant Hybrid Zero Dynamic Walking | 2040|
 |Advantages of Bilinear Koopman Realizations for the Modeling and Control of Systems with  Unknown Dynamics | 2048|
 |The Dynamic Effect of Mechanical Losses of Transmissions on the Equations of Motion of Legged  Robots | 2056|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT19 : Dynamics and Control IV |  |
 |Model Based Evaluation of Human and Lower-Limb Exoskeleton Interaction During Sit to Stand  Motion | 2063|
 |Efficient Solution Method Based on Inverse Dynamics for Optimal Control Problems of Rigid Body  Systems | 2070|
 |Compensation for Undefined Behaviors During Robot Task Execution by Switching Controllers  Depending on Embedded Dynamics in RNN | 2077|
 |Reduction of Ground Impact of a Powered Exoskeleton by Shock Absorption Mechanism on the  Shank | 2085|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT18 : Field Robotics I |  |
 |SLIP Walking over Rough Terrain via H-LIP Stepping and Backstepping-Barrier Function Inspired  Quadratic Program | 2091|
 |DeepQ Stepper: A Framework for Reactive Dynamic Walking on Uneven Terrain | 2099|
 |Wetland Soil Strength Tester and Core Sampler Using a Drone | 2106|
 |Backstepping and Sliding Mode Control for AUVs Aided with Bioinspired Neurodynamics | 2113|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT18 : Field Robotics II |  |
 |Data-Driven Sea State Estimation for Vessels Using Multi-Domain Features from Motion  Responses | 2120|
 |A Fault Tolerant Control Architecture Based on Fault Trees for an Underwater Robot Executing  Transect Missions | 2127|
 |How to Train Your Heron | 2134|
 |Robust Underwater Visual SLAM Fusing Acoustic Sensing | 2140|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT18 : Field Robotics III |  |
 |Place Recognition in Forests with Urquhart Tessellations | 2147|
 |Detecting and Counting Oysters | 2156|
 |Autonomous Distributed 3D Radiation Field Estimation for Nuclear Environment Characterization | 2163|
 |Locomotion and Control of a Friction-Driven Tripedal Robot | 2170|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT18 : Field Robotics IV |  |
 |Predicting the Time Until a Vehicle Changes the Lane Using LSTM-Based Recurrent Neural  Networks | 2177|
 |Robot-Supervised Learning of Crop Row Segmentation | 2185|
 |Deep Regression versus Detection for Counting in Robotic Phenotyping | 2192|
 |Neural Network Controller for Autonomous Pile Loading Revised | 2198|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT19 : Field Robotics V |  |
 |A Peg-In-Hole Task Strategy for Holes in Concrete | 2205|
 |Semantic Mapping of Construction Site from Multiple Daily Airborne LiDAR Data | 2212|
@@ -393,6 +618,9 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 | Asano, Kimitaka; Nagatani, Keiji; Miyamoto, Naoto; Suzuki, Takahiro; Harada, Tatsuya;  |  |
 |Tadokoro, Satoshi TaskNet: A Neural Task Planner for Autonomous Excavator | 2220|
 |Steering Induced Roll Quantification During Ship Turning Circle Manoeuvre | 2227|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT17 : Field Robotics VI |  |
 |Mobile Manipulator for Autonomous Localization, Grasping and Precise Placement of Construction  Material in a Semi-Structured Environment | 2233|
 | Jindal, Kshitij; Zhou, Alex; Thakur, Dinesh; Loianno, Giuseppe; Krajník, Tomáš; Saska,  |  |
@@ -400,170 +628,275 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |Experimental Validation of Unsteady Wave Induced Loads on a Stationary Remotely Operated  Vehicle | 2242|
 |ASVLite: A High-Performance Simulator for Autonomous Surface Vehicles | 2249|
 |Continuous Shortest Path Vector Field Navigation on 3D Triangular Meshes for Mobile Robots | 2256|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT16 : Field Robotics VII |  |
 |Predicting the Post-Impact Velocity of a Robotic Arm Via Rigid Multibody Models: An Experimental  Study | 2264|
 |Compliant plant exploration for agricultural procedures with a collaborative robot | 2272|
 |Conv1D Energy-Aware Path Planner for Mobile Robots in Unstructured Environments | 2279|
 |Resilient Collision-Tolerant Navigation in Confined Environments | 2286|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT19 : Field Robotics VIII |  |
 |A Coach-Based Bayesian Reinforcement Learning Method for Snake Robot Control | 2293|
 |Estimation of Spatially-Correlated Ocean Currents from Ensemble Forecasts and Online  Measurements | 2301|
 |Semi-Supervised Gated Recurrent Neural Networks for Robotic Terrain Classification | 2308|
 |Circus ANYmal: A Quadruped Learning Dexterous Manipulation with Its Limbs | 2316|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET16 : Field Robotics: Agricultural Applications |  |
 |PATHoBot: A Robot for Glasshouse Crop Phenotyping and Intervention | 2324|
 |Using depth information and colour space variations for improving outdoor robustness for instance  segmentation of cabbage | 2331|
 |Joint Plant Instance Detection and Leaf Count Estimation for In-Field Plant Phenotyping | 2337|
 |MP-STSP: A Multi-Platform Steiner Traveling Salesman Problem Formulation for Precision  Agriculture in Orchards | 2345|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT16 : Field Robotics: Control |  |
 |Environment Reconfiguration Planning for Autonomous Robotic Manipulation to Overcome Mobility  Constraints | 2352|
 |On Null Space-Based Inverse Kinematics Techniques for Fleet Management: Toward Time-Varying Task Activation | 2359|
 |LaND: Learning to Navigate from Disengagements | 2377|
 |Adaptive Sampling Using POMDPs with Domain-Specific Considerations | 2385|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT16 : Field Robotics: Machine Learning |  |
 |Meta Learning with Paired Forward and Inverse Models for Efficient Receding Horizon Control | 2392|
 |Reaching Pruning Locations in a Vine Using a Deep Reinforcement Learning Policy | 2400|
 |A Generative Model-Based Predictive Display for Robotic Teleoperation | 2407|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET17 : Field Robotics: Mobile Robots |  |
 |Behavior-Tree-Based Person Search for Symbiotic Autonomous Mobile Robot Tasks | 2414|
 |Online velocity fluctuation of off-road wheeled mobile robots: A reinforcement learning approach | 2421|
 |Information-Driven Gas Source Localization Exploiting Gas and Wind Local Measurements for  Autonomous Mobile Robots | 2428|
 |Integration of a Human-Aware Risk-Based Braking System into an Open-Field Mobile Robot​ | 2435|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT18 : Field Robotics: Perception |  |
 |Three-Dimensional Terrain Aware Autonomous Exploration for Subterranean and Confined Spaces | 2443|
 |Semantically-Aware Strategies for Stereo-Visual Robotic Obstacle Avoidance | 2450|
 |Sattar, Junaed LiDARNet: A Boundary-Aware Domain Adaptation Model for Point Cloud Semantic Segmentation | 2457|
 |Real-Time Navigation Using Virtual Magnetic Fields | 2465|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeBT7 : Field Robots I |  |
 |Design and Experimental Validation of a Robotic System for Reactor Core Detector Removal | 2473|
 |Accurate and Robust Stereo Direct Visual Odometry for Agricultural Environment | 2480|
 |A General Approach for the Automation of Hydraulic Excavator Arms Using Reinforcement  Learning | 2487|
 |Parameter Estimation of an Industrial Car-Like Tractor | 2495|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeCT7 : Field Robots II |  |
 |Enhancement for Robustness of Koopman Operator-Based Data-Driven Mobile Robotic Systems | 2503|
 |Collision Risk Assessment and Obstacle Avoidance Control for Autonomous Sailing Robots | 2511|
 |MSTC*: Multi-Robot Coverage Path Planning under Physical Constraints | 2518|
 |Impact Mitigation for Dynamic Legged Robots with Steel Wire Transmission Using Nonlinear Active  Compliance Control | 2525|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT19 : Force Control |  |
 |Admittance Control with Uknown Location of Interaction | 2532|
 |Low-Level Force-Control of MR-Hydrostatic Actuators | 2540|
 |Zero-Potential-Energy Motions Due to Stiffness in Impedance Control of Robotic Tasks: An  Innovative Theory and Experimental Study | 2548|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT18 : Grasping and Manipulation |  |
 |Adversarial Skill Learning for Robust Manipulation | 2555|
 |Learning Visual Affordances with Target-Orientated Deep Q-Network to Grasp Objects by  Harnessing Environmental Fixtures | 2562|
 |Enhancing Robot Perception in Grasping and Dexterous Manipulation through Crowdsourcing and  Gamification | 2569|
 |Teaching Robotic and Biomechatronic Concepts with a Gripper Design Project and a Grasping and  Manipulation Competition | 2576|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT17 : Grasping I |  |
 |Contact Space Computation of Two-Finger Gravity Based Caging Grasps Security Measure | 2583|
 |Analysis of Open-Loop Grasping from Piles | 2591|
 |Human Initiated Grasp Space Exploration Algorithm for an Underactuated Robot Gripper Using  Variational Autoencoder | 2598|
 |An Underactuated Gripper Based on Car Differentials for Self-Adaptive Grasping with Passive  Disturbance Rejection | 2605|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT20 : Grasping II |  |
 |Dig-Grasping Via Direct Quasistatic Interaction Using Asymmetric Fingers: An Approach to  Effective Bin Picking | 2612|
 |Uncertainty-Aware Self-Supervised Target-Mass Grasping of Granular Foods | 2620|
 |SCT-CNN: A Spatio-Channel-Temporal Attention CNN for Grasp Stability Prediction | 2627|
 |Tactile Velocity Estimation for Controlled In-Grasp Sliding | 2635|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT18 : Hierarchical Motion Planning |  |
 |Q-Tree Search: An Information-Theoretic Approach Toward Hierarchical Abstractions for Agents  with Computational Limitations | 2643|
 |A Safe Hierarchical Planning Framework for Complex Driving Scenarios Based on Reinforcement  Learning | 2660|
 |Behavior Planning at Urban Intersections through Hierarchical Reinforcement Learning | 2667|
 |Collision Avoidance in Tightly-Constrained Environments without Coordination: A Hierarchical  Control Approach | 2674|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT17 : Human-Centered Robotics I |  |
 |Human Arm Stability in Relation to Damping-Defined Mechanical Environments in Physical  Interaction with a Robotic Arm | 2681|
 |Conditioning Style on Substance: Plans for Narrative Observation | 2687|
 |Negative Emotion Management Using a Smart Shirt and a Robot Assistant | 2694|
 |Corrective Shared Autonomy for Addressing Task Variability | 2702|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT17 : Human-Centered Robotics II |  |
 |A Robot Walks into a Bar: Automatic Robot Joke Success Assessment | 2710|
 |Reverse Psychology in Trust-Aware Human-Robot Interaction | 2717|
 |Hey Robot, Which Way Are You Going? Nonverbal Motion Legibility Cues for Human-Robot  Interaction | 2725|
 |Robots Asking for Favors: The Effects of Directness and Familiarity on Persuasive HRI | 2731|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT17 : Human-Centered Robotics III |  |
 |Smile Like You Mean It: Driving Animatronic Robotic Face with Learned Models | 2739|
 |I Know What You Meant: Learning Human Objectives by (Under)estimating Their Choice Set | 2747|
 |Analyzing Human Models that Adapt Online | 2754|
 |When Shall I Be Empathetic? the Utility of Empathetic Parameter Estimation in Multi-Agent  Interactions | 2761|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT17 : Human-In-The-Loop Control |  |
 |End-To-End Grasping Policies for Human-In-The-Loop Robots Via Deep Reinforcement Learning | 2768|
 |An Investigation of a Balanced Hybrid Active-Passive Actuator for Physical Human-Robot  Interaction | 2775|
 |Situational Confidence Assistance for Lifelong Shared Autonomy | 2783|
 |Recognizing Orientation Slip in Human Demonstrations | 2790|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT13 : Humanoid and Bipedal Locomotion I |  |
 |Learning Bipedal Robot Locomotion from Human Movement | 2797|
 |Preference-Based Learning for User-Guided HZD Gait Generation on Bipedal Walking Robots | 2804|
 |Reinforcement Learning for Robust Parameterized Locomotion Control of Bipedal Robots | 2811|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT12 : Humanoid and Bipedal Locomotion II |  |
 |Motion Planning and Feedback Control for Bipedal Robots Riding a Snakeboard | 2818|
 |Global Position Control on Underactuated Bipedal Robots: Step-To-Step Dynamics Approximation  for Step Planning | 2825|
 |One-Step Ahead Prediction of Angular Momentum about the Contact Point for Control of Bipedal  Locomotion: Validation in a LIP-Inspired Controller | 2832|
 |Hybrid Sampling/Optimization-Based Planning for Agile Jumping Robots on Challenging Terrains | 2839|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT12 : Humanoid Robots |  |
 |A Comparison Between Joint Space and Task Space Mappings for Dynamic Teleoperation of an  Anthropomorphic Robotic Arm in Reaction Tests | 2846|
 |Real-Time Self-Collision Avoidance in Joint Space for Humanoid Robots | 2853|
 |Model Hierarchy Predictive Control of Robotic Systems | 2861|
 |Impedance Optimization for Uncertain Contact Interactions through Risk Sensitive Optimal Control | 2869|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT12 : Humanoids and Animaloids |  |
 |Learning Human Objectives from Sequences of Physical Corrections | 2877|
 |SimGAN: Hybrid Simulator Identification for Domain Adaptation Via Adversarial Reinforcement  Learning | 2884|
 |Look at my new blue force-sensing shoes! | 2891|
 |Learning Spring Mass Locomotion: Guiding Policies with a Reduced-Order Model | 2897|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET13 : Humanoids and Animaloids I |  |
 |DILIGENT-KIO: A Proprioceptive Base Estimator for Humanoid Robots Using Extended Kalman  Filtering on Matrix Lie Groups | 2904|
 |Modeling of Visco-Elastic Environments for Humanoid Robot Motion Control | 2911|
 |Feasibility-Driven Step Timing Adaptation for Robust MPC-Based Gait Generation in Humanoids | 2919|
 |Humanoid Control under Interchangeable Fixed and Sliding Unilateral Contacts | 2927|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT17 : Humanoids and Animaloids III |  |
 |Lywal: A Leg-Wheel Transformable Quadruped Robot with Picking up and Transport Functions | 2935|
 |Design of a Compact Embedded Hydraulic Power Unit for Bipedal Robots | 2942|
 |Stair Climbing Capability-Based Dimensional Synthesis for the Multi-Legged Robot | 2950|
 |Versatile Locomotion by Integrating Ankle, Hip, Stepping, and Height Variation Strategies | 2957|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT13 : Humanoids and Animaloids IV |  |
 |Fast Footstep Planning with Aborting A* | 2964|
 |Stiffness Modulation in a Humanoid Robotic Leg and Knee | 2971|
 |Exploiting Visual Servoing and Centroidal Momentum for Whole-Body Motion Control of Humanoid  Robots in Absence of Contacts and Gravity | 2979|
 |Variable Horizon MPC with Swing Foot Dynamics for Bipedal Walking Control | 2986|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT17 : Humanoids and Animaloids V |  |
 |Robust Landing Stabilization of Humanoid Robot on Uneven Terrain Via Admittance Control and  Heel Strike Motion | 2994|
 |Toward Autonomous Driving by Musculoskeletal Humanoids: A Study of Developed Hardware and  Learning-Based Software | 3001|
 |Automatic Grouping of Redundant Sensors and Actuators Using Functional and Spatial Connections: Application to Muscle Grouping for Musculoskeletal Humanoids | 3011|
 |State Estimation for Hybrid Wheeled-Legged Robots Performing Mobile Manipulation Tasks | 3019|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT13 : Humanoids and Animaloids VI |  |
 |Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization | 3026|
 |DeepWalk: Omnidirectional Bipedal Gait by Deep Reinforcement Learning | 3033|
 |ULT-Model: Towards a One-Legged Unified Locomotion Template Model for Forward Hopping with  an Upright Trunk | 3040|
 |Nonlinear Stiffness Allows Passive Dynamic Hopping for One-Legged Robots with an Upright  Trunk | 3047|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT16 : Humanoids and Animaloids VII |  |
 |Reachability-Based Push Recovery for Humanoid Robots with Variable-Height Inverted Pendulum | 3054|
 |Meaningful Centroidal Frame Orientation of Multi-body Floating Locomotion Systems | 3061|
 |Online Object Searching by a Humanoid Robot in an Unknown Environment | 3068|
 |Origami-inspired New Material Feeding Mechanism for Soft Growing Robots to Keep the Camera  Stay at the Tip by Securing Its Path | 3076|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeBT3 : Humanoids and Animaloids VIII |  |
 |Vision-Based Path Following of Snake-Like Robots | 3084|
 |Configuration Transformation of the Wheel-Legged Robot Using Inverse Dynamics Control | 3091|
 |A Passive Hydraulic Auxiliary System Designed for Increasing Legged Robot Payload and  Efficiency | 3097|
 |Legged Robot State Estimation in Slippery Environments UsingInvariant Extended Kalman Filter  with Velocity Update | 3104|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT0 : Human-Robot Interaction Award Session |  |
 |Collision Detection, Identification, and Localization on the DLR SARA Robot with Sensing  Redundancy | 3111|
 |Reactive Human-To-Robot Handovers of Arbitrary Objects | 3118|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT16 : Human-Robot Interaction I |  |
 |Evaluating Guided Policy Search for Human-Robot Handovers | 3125|
 |Communication Strategy for Efficient Guidance Providing | 3133|
 |LBGP: Learning Based Goal Planning for Autonomous Following in Front | 3140|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT16 : Human-Robot Interaction II |  |
 |A Reversible Dynamic Movement Primitive Formulation | 3147|
 |A Safety-Aware Kinodynamic Architecture for Human-Robot Collaboration | 3154|
 |A Human-Centered Dynamic Scheduling Architecture for Collaborative Application | 3161|
 |Towards Efficient Human-Robot Cooperation for Socially-Aware Robot Navigation in Human-Populated Environments: The SNAPE Framework | 3169|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeCT11 : Human-Robot Interaction III |  |
 |Relational Navigation Learning in Continuous Action Space among Crowds | 3175|
 |Limits of Probabilistic Safety Guarantees When Considering Human Uncertainty | 3182|
 |Probabilistic Human Motion Prediction Via a Bayesian Neural Network | 3190|
 |Directed Acyclic Graph Neural Network for Human Motion Prediction | 3197|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT16 : Human-Robot Interaction in Exoskeletons |  |
 |Crawling Support Using Wearable SuperLimbs: Human-Robot Synchronization and Metabolic Cost  Assessment | 3205|
 |ROIAL: Region of Interest Active Learning for Characterizing Exoskeleton Gait Preference  Landscapes | 3212|
 |Control of a Transfemoral Prosthesis on Sloped Terrain using Continuous and Nonlinear  Impedance Parameters | 3219|
 |Model-Dependent Prosthesis Control with Interaction Force Estimation | 3226|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT18 : Human-Robot Interaction IV |  |
 |Comparison of Three Feedback Modalities for Haptics Sensation in Remote Machine  Manipulation | 3233|
 |Prediction-Error Negativity to Assess Singularity Avoidance Strategies in Physical Human-Robot  Collaboration | 3241|
@@ -573,60 +906,96 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |Learning from Demonstration for Real-Time User Goal Prediction and Assistive Shared Control | 3270|
 |Human-Aware Robot Task Planning Based on a Hierarchical Task Model | 3276|
 |Exploiting Natural Language for Efficient Risk-Aware Multi-Robot SaR Planning | 3284|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT15 : Human-Robot Interaction V |  |
 |Force-Sensing Tensegrity for Investigating Physical Human-Robot Interaction in Compliant Robotic  Systems | 3292|
 |Risk-Aware Decision Making for Service Robots to Minimize Risk of Patient Falls in Hospitals | 3299|
 |Haptic Feedback Improves Human-Robot Agreement and User Satisfaction in Shared-Autonomy  Teleoperation | 3306|
 |Effect of Robot Assistance, Operator Cognitive Fatigue, and Sex on Task Efficiency, Workload,  and Situation Awareness in Human-Robot Collaboration | 3313|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT17 : Human-Robot Interaction VI |  |
 |Composing HARMONI: An Open-Source Tool for Human and Robot Modular OpeN Interaction | 3322|
 |Robot Interaction Studio: A Platform for Unsupervised HRI | 3330|
 |MorphFace: A Hybrid Morphable Face for a Robopatient | 3337|
 |Which Gesture Generator Performs Better? | 3345|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeCT3 : Human-Robot Interaction VIITwo-Stream 2D/3D Residual Networks for Learning Robot Manipulations from Human  |  |
 |Demonstration Videos | 3353|
 |Waypoints Updating Based on Adam and ILC for Path Learning in Physical Human-Robot  Interaction | 3359|
 |Virtual-Fixture Based Drilling Control for Robot-Assisted Craniotomy: Learning from Demonstration | 3366|
 |A Graph Attention Spatio-Temporal Convolutional Network for 3D Human Pose Estimation in Video | 3374|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT18 : Human-Robot Interaction VIII |  |
 |Human-In-The-Loop Auditory Cueing Strategy for Gait Modification | 3381|
 |A Self-Training Approach-Based Traversability Analysis for Mobile Robots in Urban Environments | 3389|
 |Active and Interactive Mapping with Dynamic Gaussian Process Implicit Surfaces for Mobile  Manipulators | 3395|
 |Proactive Interaction Framework for Intelligent Social Receptionist Robots | 3403|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT16 : Human-Robot Interaction X |  |
 |Interpreting Contact Interactions to Overcome Failure in Robot Assembly Task | 3410|
 |Decentralized Ability-Aware Adaptive Control for Multi-Robot Collaborative Manipulation | 3418|
 |Learning Interaction-Aware Trajectory Predictions for Decentralized Multi-Robot Motion Planning in  Dynamic Environments | 3426|
 |Real-Time Surgical Environment Enhancement for Robot-Assisted Minimally Invasive Surgery  Based on Super-Resolution | 3434|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT17 : Human-Robot Interaction XIExploiting Inherent Human Motor Behaviour in the Online Personalisation of Human-Prosthetic  |  |
 |Interfaces | 3441|
 |Design and Clinical Validation of a Robotic Ankle-Foot Simulator with Series Elastic Actuator for  Ankle Clonus Assessment Training | 3450|
 |A Hybrid Impedance Controller for Series Elastic Actuators to Render a Wide Range of Stable  Stiffness in Uncertain Environments | 3458|
 |Soft-Jig-Driven Assembly Operations | 3466|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT13 : Human-Robot Interaction:   Learning to Predict |  |
 |Identifying Driver Interactions Via Conditional Behavior Prediction | 3473|
 |Sapp, Benjamin; Anguelov, Dragomir Autonomous Robotic Escort Incorporating Motion Prediction and Human Intention | 3480|
 |Two-Stage Clustering of Human Preferences for Action Prediction in Assembly Tasks | 3487|
 |Dynamically Switching Human Prediction Models for Efficient Planning | 3495|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT15 : Human-Robot Interaction:  Robot Navigation I |  |
 |Socially-Compatible Behavior Design of Autonomous Vehicles with Verification on Real Human  Data | 3502|
 |Social Navigation for Mobile Robots in the Emergency Department | 3510|
 |Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement Learning | 3517|
 |Range Limited Coverage Control Using Air-Ground Multi-Robot Teams | 3525|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT13 : Human-Robot Interaction:  Robot Navigation II |  |
 |Investigation of Unmanned Aerial Vehicle Gesture Perceptibility and Impact of Viewpoint Variance | 3531|
 |Can a Robot Trust You? A DRL-Based Approach to Personality-Driven, Human-Guided Navigation | 3538|
 |Mesh Based Analysis of Low Fractal Dimension Reinforcement Learning Policies | 3546|
 |Watch Where You’re Going! Gaze and Head Orientation As Predictors for Social Robot Navigation | 3553|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT15 : Human-Robot Interaction: Control |  |
 |Robust Classification of Grasped Objects in Intuitive Human-Robot Collaboration Using a  Wearable Force-Myography Device | 3560|
 |Augmented Hierarchical Quadratic Programming for Adaptive Compliance Robot Control | 3568|
 |An Optimization Approach for a Robust and Flexible Control in Collaborative Applications | 3575|
 |Probabilistic Adaptive Control for Robust Behavior Imitation | 3582|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET15 : Human-Robot Interaction: Detection |  |
 |CSM: Contact Sensitivity Maps for Benchmarking Robot Collision Handling Systems | 3590|
 |A Data-Driven Approach for Contact Detection, Classification and Reaction in Physical Human-Robot Collaboration | 3597|
 |Pointing at Moving Robots: Detecting Events from Wrist IMU Data | 3604|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT15 : Human-Robot Interaction: Haptics |  |
 |Learning Human-like Hand Reaching for Human-Robot Handshaking | 3612|
 |Simultaneous Haptic Guidance and Learning of Task Parameters During Robotic Teleoperation - a  Geometrical Approach | 3619|
@@ -634,26 +1003,41 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |A Unified Perception Benchmark for Capacitive Proximity Sensing towards Safe Human-Robot Collaboration (HRC) | 3634|
 | Gergely; Rathmair, Michael; Mühlbacher-Karrer, Stephan; Thomas, Ulrike; Hein, Björn;  |  |
 | Hofbaur, Michael; Zangl, Hubert |  |
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT15 : Human-Robot Interaction: Learning |  |
 |Engagement Estimation During Child Robot Interaction Using Deep Convolutional Networks  Focusing on ASD Children | 3641|
 |Ergodic Imitation: Learning from What to Do and What Not to Do | 3648|
 |Imitation Learning with Inconsistent Demonstrations through Uncertainty-Based Data Manipulation | 3655|
 |Learning Motor Resonance in Human-Human and Human-Robot Interaction with Coupled  Dynamical Systems | 3662|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT15 : Human-Robot Interaction: Medical Robots and Systems I |  |
 |Can Therapists Design Robot-Mediated Interventions and Teleoperate Robots Using VR to Deliver  Interventions for ASD? | 3669|
 |A Low-Cost Intrinsically Safe Mechanism for Physical Distancing between Clinicians and Patients | 3677|
 |Collaborative Fall Detection Using a Wearable Device and a Companion Robot | 3684|
 |Conversation-Based Medication Management System for Older Adults Using a Companion Robot  and Cloud | 3691|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT14 : Human-Robot Interaction: Medical Robots and Systems II |  |
 |Variable Impedance Control for pHRI: Impact on Stability, Agility, and Human Effort in Controlling a  Wearable Ankle Robot | 3699|
 |Design and Validation of a Novel Exoskeleton Hand Interface: The Eminence Grip | 3707|
 |Entrainment During Human Locomotion Using a Soft Wearable Ankle Robot | 3714|
 |Active Telepresence Assistance for Supervisory Control: A User Study with a Multi-Camera Tele-Nursing Robot | 3722|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT14 : Human-Robot Interaction: Motion Planning |  |
 |A Scalable Approach to Predict Multi-Agent Motion for Human-Robot Collaboration | 3728|
 |Temporal Anticipation and Adaptation Methods for Fluent Human-Robot Teaming | 3736|
 |Robust Planning with Emergent Human-Like Behavior for Agents Traveling in Groups | 3744|
 |Order Matters: Generating Progressive Explanations for Planning Tasks in Human-Robot Teaming | 3751|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT14 : Human-Robot Interaction: Motion Prediction |  |
 |Human-Robot Collaborative Object Transfer Using Human Motion Prediction Based on Cartesian  Pose Dynamic Movement Primitives | 3758|
 |Dynamic Projection of Human Motion for Safe and Efficient Human-Robot Collaboration | 3765|
@@ -663,332 +1047,530 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |ARC-LfD: Using Augmented Reality for Interactive Long-Term Robot Skill Maintenance Via  Constrained Learning from Demonstration | 3794|
 |Bringing WALL-E Out of the Silver Screen: Understanding How Transformative Robot Sound  Affects Human Perception | 3801|
 |How People Use Active Telepresence Cameras in Tele-manipulation | 3808|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET14 : Human-Robot Interaction: Safety |  |
 |Improving Safety and Accuracy of Impedance Controlled Robot Manipulators with Proximity  Perception and Proactive Impact Reactions | 3816|
 |Optimal Scaling of Dynamic Safety Zones for Collaborative Robotics | 3822|
 |3D Collision-Force-Map for Safe Human-Robot Collaboration | 3829|
 |Safe, Passive Control for Mechanical Systems with Application to Physical Human-Robot  Interactions | 3836|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT14 : Human-Robot Interaction: Scheduling and Teleoperation |  |
 |Online Dynamic Time Warping Algorithm for Human-Robot Imitation | 3843|
 |Sumit Kumar; Popa, Dan Discrete Windowed-Energy Variable Structure Passivity Signature Control for Physical Human-(Tele)Robot Interaction | 3850|
 |Investigation of Multiple Resource Theory Design Principles on Robot Teleoperation and Workload  Management | 3858|
 |Time-Domain Passivity-Based Controller with an Optimal Two-Channel Lawrence Telerobotic  Architecture | 3865|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT14 : Human-Robot Interaction: Simulation and Experiment |  |
 |Virtual Adversarial Humans Finding Hazards in Robot Workplaces | 3872|
 |Crowd against the Machine: A Simulation-Based Benchmark Tool to Evaluate and Compare Robot  Capabilities to Navigate a Human Crowd | 3879|
 |DROID: Minimizing the Reality Gap Using Single-Shot Human Demonstration | 3886|
 |Roboticists and Reporters. a Rhetorical Experiment at the Cité Des Sciences Et De l’Industrie (Paris, France) (I) | 3894|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT14 : Human-Robot Interaction: Task Planning |  |
 |Task Planning with a Weighted Functional Object-Oriented Network | 3904|
 |Haptic-Guided Path Generation for Remote Car-Like Vehicles | 3911|
 |Task-Based Role Adaptation For Human-Robot Cooperative Object Handling | 3919|
 |Towards providing explanations for robot motion planning | 3927|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT13 : Human-Robot Interaction: Teleoperation |  |
 |Stabilization of User-defined Feedback Controllers in Teleoperation with Passive Coupling  Reference | 3934|
 |Rate Mode Bilateral Teleoperation Based on Passivity Tanks and Variable Admittance Control | 3942|
 |Task Autocorrection for Immersive Teleoperation | 3949|
 |Manipulability Optimization for Multi-Arm Teleoperation | 3956|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT13 : Human-Robots Interface System |  |
 |UAV Target-Selection: 3D Pointing Interface System for Large-Scale Environment | 3963|
 |A Framework for Customizable Multi-User Teleoperated Control | 3970|
 |Scott SQRP: Sensing Quality-Aware Robot Programming System for Non-Expert Programmers | 3978|
 |Automated Environment Reduction for Debugging Robotic Systems | 3985|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeAT14 : IMU-Based Localization |  |
 |IMU Data Processing for Inertial Aided Navigation: A Recurrent Neural Network Based Approach | 3992|
 |Highly Efficient Line Segment Tracking with an IMU-KLT Prediction and a Convex Geometric  Distance Minimization | 3999|
 |Robust Localization for Planar Moving Robot in Changing Environment: A Perspective on Density  of Correspondence and Depth | 4006|
 |IMU/Vehicle Calibration and Integrated Localization for Autonomous Driving | 4013|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT12 : Intelligence Design |  |
 |Optimizing Cellular Networks Via Continuously Moving Base Stations on Road Networks | 4020|
 |The Resh Programming Language for Multirobot Orchestration | 4026|
 |Sensing Via Collisions: A Smart Cage for Quadrotors with Applications to Self-Localization | 4033|
 |Generative Design of NU's Husky Carbon: A Morpho-Functional, Legged Robot | 4040|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT16 : Learning and Control in Robotics and Automation |  |
 |Hyperparameter Auto-Tuning in Self-Supervised Robotic Learning | 4047|
 |An Analytical Diabolo Model for Robotic Learning and Control | 4055|
 |Peer-Assisted Robotic Learning: A Data-Driven Collaborative Learning Approach for Cloud Robotic  Systems | 4062|
 |Imitation Learning of Hierarchical Driving Model: From Continuous Intention to Continuous  Trajectory | 4071|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT16 : Learning and Optimization |  |
 |Evolvable Motion-Planning Method Using Deep Reinforcement Learning | 4079|
 |Learning Sequences of Manipulation Primitives for Robotic Assembly | 4086|
 |Data-Efficient Learning for Complex and Real-Time Physical Problem Solving Using Augmented  Simulation | 4093|
 |EGO-Swarm: A Fully Autonomous and Decentralized Quadrotor Swarm System in Cluttered  Environments | 4101|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT15 : Learning for Motion Planning |  |
 |Deep Imitation Learning for Autonomous Navigation in Dynamic Pedestrian Environments | 4108|
 |Learning from Demonstration without Demonstrations | 4116|
 |Optimal Cooperative Maneuver Planning for Multiple Nonholonomic Robots in a Tiny Environment  via Adaptive-scaling Constrained Optimization | 4123|
 |Optimization-Based Framework for Excavation Trajectory Generation | 4131|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT12 : Learning for Robotics I |  |
 |Adversarial Training Is Not Ready for Robot Learning | 4140|
 |Deep Learning on 3D Object Detection for Automatic Plug-In Charging Using a Mobile Manipulator | 4148|
 |Decentralized Multi-Agent Pursuit Using Deep Reinforcement Learning | 4155|
 |Differentiable Physics Models for Real-World Offline Model-Based Reinforcement Learning | 4163|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET12 : Learning for Robotics II |  |
 |Sample-Efficient Reinforcement Learning in Robotic Table Tennis | 4171|
 |Super-Human Performance in Gran Turismo Sport Using Deep Reinforcement Learning | 4179|
 |No Face-Touch: Exploiting Wearable Devices and Machine Learning for Gesture Detection | 4187|
 |Robot Learning with Crash Constraints | 4194|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT14 : Learning in Control |  |
 |Sample Efficient Reinforcement Learning via Model-Ensemble Exploration and Exploitation | 4202|
 |Dreaming: Model-Based Reinforcement Learning by Latent Imagination without Reconstruction | 4209|
 |A Variational Infinite Mixture for Probabilistic Inverse Dynamics Learning | 4216|
 |Model-Based Domain Randomization of Dynamics System with Deep Bayesian Locally Linear  Embedding | 4223|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT15 : Learning in Robotics and Automation I |  |
 |Learning Spatial Context with Graph Neural Network for Multi-Person Pose Grouping | 4230|
 |Automatic Hanging Point Learning from Random Shape Generation and Physical Function  Validation | 4237|
 |Gaze-based dual resolution deep imitation learning for high-precision dexterous robot manipulation | 4244|
 |Graph Convolutional Network Based Configuration Detection for Freeform Modular Robot Using  Magnetic Sensor Array | 4252|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT15 : Learning in Robotics and Automation II |  |
 |PVStereo: Pyramid Voting Module for End-To-End Self-Supervised Stereo Matching | 4259|
 |Embedding Symbolic Temporal Knowledge into Deep Sequential Models | 4267|
 |Multi-Modal Mutual Information (MuMMI) Training for Robust Self-Supervised Deep Reinforcement Learning | 4274|
 |Linguistic Descriptions of Human Motion with Generative Adversarial Seq2Seq Learning | 4281|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeBT14 : Learning in Robotics and Automation III |  |
 |MDANet: Multi-Modal Deep Aggregation Network for Depth Completion | 4288|
 |GPR: Grasp Pose Refinement Network for Cluttered Scenes | 4295|
 |Diversity-Aware Label Distribution Learning for Microscopy Auto Focusing | 4303|
 |Contour Primitive of Interest Extraction Network Based on One-Shot Learning for Object-Agnostic  Vision Measurement | 4311|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeCT14 : Learning in Robotics and Automation IV |  |
 |UMLE: Unsupervised Multi-Discriminator Network for Low Light Enhancement | 4318|
 |Unsupervised Learning of 3D Scene Flow from Monocular Camera | 4325|
 |Monocular 3D Detection with Geometric Constraints Embedding and Semi-Supervised Training | 4332|
 |Deep3DRanker: A Novel Framework for Learning to Rank 3D Models with Self-Attention in Robotic  Vision | 4341|
 |FGR: Frustum-Aware Geometric Reasoning for Weakly Supervised 3D Vehicle Detection | 4348|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT12 : Learning to Predict |  |
 |Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular  Depth Prediction | 4355|
 |Predicting Disparity Distributions | 4363|
 |Scoring Graspability Based on Grasp Regression for Better Grasp Prediction | 4370|
 |MonoSOD: Monocular Salient Object Detection Based on Predicted Depth | 4377|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT11 : Learning-Based Control |  |
 |Efficient Reachability Analysis of Closed-Loop Systems with Neural Network Controllers | 4384|
 |Reachability-Based Trajectory Safeguard (RTS): A Safe and Fast Reinforcement Learning Safety Layer for Continuous Control | 4391|
 |Neural Identification for Control | 4399|
 |Learning Variable Impedance Control Via Inverse Reinforcement Learning for Force-Related  Tasks | 4407|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT12 : Learning-Based Control I |  |
 |Interactive Learning of Temporal Features for Control | 4415|
 |A Fully Spiking Neural Control System Based on Cerebellar Predictive Learning for Sensor-Guided  Robots | 4423|
 |Learning to Steer a Locomotion Contact Planner | 4430|
 |Learning Shape Control of Elastoplastic Deformable Linear Objects | 4438|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT11 : Learning-Based Control II |  |
 |Leveraging Forward Model Prediction Error for Learning Control | 4445|
 |GoSafe: Globally Optimal Safe Robot Learning | 4452|
 |Distilling a Hierarchical Policy for Planning and Control Via Representation and Reinforcement  Learning | 4459|
 |Active Model Learning Using Informative Trajectories for Improved Closed-Loop Control on Real  Robots | 4467|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET11 : Learning-Based Grasping |  |
 |Robot Learning of 6 DoF Grasping Using Model-Based Adaptive Primitives | 4474|
 |Conditional StyleGAN for Grasp Generation | 4481|
 |Go Fetch! - Dynamic Grasps Using Boston Dynamics Spot with External Robotic Arm | 4488|
 |Multi-FinGAN: Generative Coarse-To-Fine Sampling of Multi-Finger Grasps | 4495|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT14 : Learning-Based Human-Robot Interaction |  |
 |Machine Learning-Based Human-Following System: Following the Predicted Position of a Walking  Human | 4502|
 |Anytime Game-Theoretic Planning with Active Reasoning About Humans' Latent States for  Human-Centered Robots | 4509|
 |Momentum Observer-Based Collision Detection Using LSTM for Model Uncertainty Learning | 4516|
 |Deep Learning and Mixed Reality to Autocomplete Teleoperation | 4523|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeAT10 : Learning-Based Manipulation I |  |
 |Mechanical Intelligence for Adaptive Precision Grasp | 4530|
 |Learning Multi-Object Dense Descriptor for Autonomous Goal-Conditioned Grasping | 4537|
 |Hierarchical Learning from Demonstrations for Long-Horizon Tasks | 4545|
 |How to Select and Use Tools? : Active Perception of Target Objects Using Multimodal Deep  Learning | 4552|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT10 : Learning-Based Manipulation II |  |
 |Robots of the Lost Arc: Self-Supervised Learning to Dynamically Manipulate Fixed-Endpoint  Cables | 4560|
 |Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter  Networks | 4568|
 |A Joint Network for Grasp Detection Conditioned on Natural Language Commands | 4576|
 |ReLMoGen: Integrating Motion Generation in Reinforcement Learning for Mobile Manipulation | 4583|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT11 : Learning-Based Manipulation III |  |
 |Learning Behavior Trees with Genetic Programming in Unpredictable Environments | 4591|
 |Active Learning of Bayesian Probabilistic Movement Primitives | 4598|
 |Learning Efficient Constraint Graph Sampling for Robotic Sequential Manipulation | 4606|
 |Coarse-to-Fine Imitation Learning: Robot Manipulation from a Single Demonstration | 4613|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT14 : Learning-Based Manipulation IV |  |
 |AdaGrasp: Learning a Gripper-Aware Grasping Policy | 4620|
 |TRANS-AM: Transfer Learning by Aggregating Dynamics Models for Soft Robotic Assembly | 4627|
 |Learning Deep Nets for Gravitational Dynamics with Unknown Disturbance through Physical  Knowledge Distillation: Initial Feasibility Study | 4634|
 |Learning to Place Objects Onto Flat Surfaces in Upright Orientations | 4642|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT11 : Learning-Based Manipulation IX |  |
 |Efficient Self-Supervised Data Collection for Offline Robot Learning | 4650|
 |Total Singulation with Modular Reinforcement Learning | 4657|
 |Active Inference for Integrated State-Estimation, Control, and Learning | 4665|
 |Robot Program Parameter Inference Via Differentiable Shadow Program Inversion | 4672|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT10 : Learning-Based Manipulation V |  |
 |Learning Multimodal Contact-Rich Skills from Demonstrations without Reward Engineering | 4679|
 |Keep It Simple: Data-Efficient Learning for Controlling Complex Systems with Simple Models | 4686|
 |DIPN: Deep Interaction Prediction Network with Application to Clutter Removal | 4694|
 |Toward Agile Maneuvers in Highly Constrained Spaces: Learning from Hallucination | 4702|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT10 : Learning-Based Manipulation VI |  |
 |Learning Conditional Postural Synergies for Dexterous Hands: A Generative Approach Based on  Variational Auto-Encoders and Conditioned on Object Size and Category | 4710|
 |ReForm: A Robot Learning Sandbox for Deformable Linear Object Manipulation | 4717|
 |Adversarial Imitation Learning with Trajectorial Augmentation and Correction | 4724|
 |Learning Reachable Manifold and Inverse Mapping for a Redundant Robot Manipulator | 4731|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT13 : Learning-Based Manipulation VII |  |
 |Living Object Grasping Using Two-Stage Graph Reinforcement Learning | 4738|
 |Reinforcement Learning for Robotic Assembly Using Non-Diagonal Stiffness Matrix | 4746|
 |Uncertainty-Aware Contact-Safe Model-Based Reinforcement Learning | 4754|
 |Reducing the Deployment-Time Inference Control Costs of Deep Reinforcement Learning Agents  via an Asymmetric Architecture | 4762|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT10 : Learning-Based Manipulation VIII |  |
 |ECNNs: Ensemble Learning Methods for Improving Planar Grasp Quality Estimation | 4769|
 |Causal Reasoning in Simulation for Structure and Transfer Learning of Robot Manipulation Policies | 4776|
 |SuPer Deep: A Surgical Perception Framework for Robotic Tissue Manipulation Using Deep  Learning for Feature Extraction | 4783|
 |An Affordance Keypoint Detection Network for Robot Manipulation | 4790|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET10 : Learning-Based Motion Planning |  |
 |Learning Robot Trajectories Subject to Kinematic Joint Constraints | 4799|
 |Enhancing Lattice-Based Motion Planning with Introspective Learning and Reasoning | 4806|
 |Learning Functionally Decomposed Hierarchies for Continuous Control Tasks with Path Planning | 4815|
 |Self-Imitation Learning by Planning | 4823|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT11 : Learning-Based Motion Planning I |  |
 |Learning and Planning for Temporally Extended Tasks in Unknown Environments | 4830|
 |Behavior Tree Learning for Robotic Task Planning through Monte Carlo DAG Search Over a  Formal Grammar | 4837|
 |Improving Off-Road Planning Techniques with Learned Costs from Physical Interactions | 4844|
 | Sebastian |  |
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT11 : Learning-Based Motion Planning IIPlanning with Learned Dynamics: Probabilistic Guarantees on Safety and Reachability via Lipschitz  |  |
 |Constants | 4851|
 |Single-Query Path Planning Using Sample-Efficient Probability Informed Trees | 4859|
 |Learning from Imperfect Demonstrations from Agents with Varying Dynamics | 4867|
 |Perceive, Attend, and Drive: Learning Spatial Attention for Safe Self-Driving | 4875|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT11 : Learning-Based Motion Planning III |  |
 |Robotic Information Gathering Using Semantic Language Instructions | 4882|
 |MPC-MPNet: Model-Predictive Motion Planning Networks for Fast, Near-Optimal Planning under  Kinodynamic Constraints | 4889|
 |Deep Structured Reactive Planning | 4897|
 |Learning a Centroidal Motion Planner for Legged Locomotion | 4905|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT9 : Legged Robots I |  |
 |Optimal Estimation of the Centroidal Dynamics of Legged Robots | 4912|
 |A Unified Optimization Framework and New Set of Performance Metrics for Robot Leg Design | 4919|
 |A Novel Model Predictive Control Framework Using Dynamic Model Decomposition Applied to  Dynamic Legged Locomotion | 4926|
 |Generating Continuous Motion and Force Plans in Real-Time for Legged Mobile Manipulation | 4933|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT9 : Legged Robots II |  |
 |Planning in Learned Latent Action Spaces for Generalizable Legged Locomotion | 4940|
 |AksharaThe Fluid Field SLIP Model: Terrestrial-Aquatic Dynamic Legged Locomotion | 4948|
 |Dynamics Randomization Revisited: A Case Study for Quadrupedal Locomotion | 4955|
 |Coupled Control Lyapunov Functions for Interconnected Systems, with Application to Quadrupedal  Locomotion | 4962|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT10 : Legged Robots III |  |
 |Balancing on a Springy Leg | 4970|
 |Gyrubot: Nonanthropomorphic Stabilization for a Biped | 4976|
 |Feasible Region: An Actuation-Aware Extension of the Support Region | 4983|
 |A Novel Method for Computing the 3D Friction Cone Using Complimentary Constraints | 5000|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT10 : Legged Robots IV |  |
 |Implementation of a Reactive Walking Controller for the New Open-Hardware Quadruped Solo-12 | 5007|
 |Soueres, Philippe Imitation Learning from MPC for Quadrupedal Multi-Gait Control | 5014|
 |Comparison of Predictive Controllers for Locomotion and Balance Recovery of Quadruped Robots | 5021|
 |Locomotion Adaptation in Heavy Payload Transportation Tasks with the Quadruped Robot  CENTAURO | 5028|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeCT10 : LiDAR-Based Localization I |  |
 |Elastic and Efficient LiDAR Reconstruction for Large-Scale Exploration Tasks | 5035|
 |KFS-LIO: Key-Feature Selection for Lightweight Lidar Inertial Odometry | 5042|
 |CamVox: A Low-Cost and Accurate Lidar-Assisted Visual SLAM System | 5049|
 |PSF-LO: Parameterized Semantic Features Based Lidar Odometry | 5056|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT13 : LiDAR-Based Localization II |  |
 |LiDAR-Based Initial Global Localization Using Two-Dimensional (2D) Submap Projection Image (SPI) | 5063|
 |Automatic Hyper-Parameter Tuning for Black-Box LiDAR Odometry | 5069|
 |Locus: LiDAR-based Place Recognition Using Spatiotemporal Higher-Order Pooling | 5075|
 |Automated Extrinsic Calibration for 3D LiDARs with Range Offset Correction Using an Arbitrary  Planar Board | 5082|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT10 : Localization and Control |  |
 |Model Predictive Control for Cooperative Hunting in Obstacle Rich and Dynamic Environments | 5089|
 |Instance-Aware Predictive Navigation in Multi-Agent Environments | 5096|
 |SLAAM: Simultaneous Localization and Additive Manufacturing | 5103|
 |SimNet: Learning Reactive Self-Driving Simulations from Real-World Observations | 5119|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT9 : Localization and Estimation |  |
 |MonStereo: When Monocular and Stereo Meet at the Tail of 3D Human Localization | 5126|
 |Enabling Spatio-Temporal Aggregation in Birds-Eye-View Vehicle Estimation | 5133|
 |Multimodal Scale Consistency and Awareness for Monocular Self-Supervised Depth Estimation | 5140|
 |There and Back Again: Self-Supervised Multispectral Correspondence Estimation | 5147|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET9 : Localization and Mapping I |  |
 |Deep Compression for Dense Point Cloud Maps | 5155|
 |Exploration of Large Outdoor Environments Using Multi-Criteria Decision Making | 5163|
 |SD-DefSLAM: Semi-Direct Monocular SLAM for Deformable and Intracorporeal Scenes | 5170|
 |Hough2Map – Iterative Event-Based Hough Transform for High-Speed Railway Mapping | 5178|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT9 : Localization and Mapping II |  |
 |3D Motion Capture of an Unmodified Drone with Single-Chip Millimeter Wave Radar | 5186|
 |Zero-Shot Reinforcement Learning on Graphs for Autonomous Exploration Under Uncertainty | 5193|
 |Fast Uncertainty Quantification for Deep Object Pose Estimation | 5200|
 |Mesh Reconstruction from Aerial Images for Outdoor Terrain Mapping Using Joint 2D-3D Learning | 5208|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeAT2 : Localization and Mapping III |  |
 |Tightly-Coupled Multi-Sensor Fusion for Localization with LiDAR Feature Maps | 5215|
 |Greedy-Based Feature Selection for Efficient LiDAR SLAM | 5222|
 |Road Mapping and Localization Using Sparse Semantic Visual Features | 5229|
 |Retrieval and Localization with Observation Constraints | 5237|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT13 : Localization and Mapping IV |  |
 |MSTSL: Multi-Sensor Based Two-Step Localization in Geometrically Symmetric Environments | 5245|
 |Range-Focused Fusion of Camera-IMU-UWB for Accurate and Drift-Reduced Localization | 5252|
 |Interactive Planning for Autonomous Urban Driving in Adversarial Scenarios | 5261|
 |Kernel-Based 3-D Dynamic Occupancy Mapping with Particle Tracking | 5268|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeAT16 : Localization and Mapping IX |  |
 |Robust Dual Quadric Initialization for Forward-Translating Camera Movements | 5275|
 |Robust Motion Averaging under Maximum Correntropy Criterion | 5283|
 |Robust Semantic Map Matching Algorithm Based on Probabilistic Registration Model | 5289|
 |Accurate and Robust Scale Recovery for Monocular Visual Odometry Based on Plane Geometry | 5296|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT9 : Localization and Mapping V |  |
 |Polarimetric Monocular Dense Mapping Using Relative Deep Depth Prior | 5303|
 |Learned Uncertainty Calibration for Visual Inertial Localization | 5311|
 |CLEAR: A Consistent Lifting, Embedding, and Alignment Rectification Algorithm for Multiview Data  Association | 5318|
 |Distributed Client-Server Optimization for SLAM with Limited On-Device Resources | 5336|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeAT12 : Localization and Mapping VI |  |
 |Multi-Parameter Optimization for a Robust RGB-D SLAM System | 5343|
 |Invariant EKF Based 2D Active SLAM with Exploration Task | 5350|
 |2D Laser SLAM with Closed Shape Features: Fourier Series Parameterization and Submap  Joining | 5357|
 |A Switching-Coupled Backend for Simultaneous Localization and Dynamic Object Tracking | 5365|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT12 : Localization and Mapping VII |  |
 |B-Splines for Purely Vision-Based Localization and Mapping on Non-Holonomic Ground Vehicles | 5374|
 |Robust SRIF-Based LiDAR-IMU Localization for Autonomous Vehicles | 5381|
 |Structure Reconstruction Using Ray-Point-Ray Features: Representation and Camera Pose  Estimation | 5388|
 |Lightweight 3-D Localization and Mapping for Solid-State LiDAR | 5395|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT8 : Localization and Mapping VIII |  |
 |Simultaneous Estimation and Modeling of Robotic Systems with Non-Gaussian State Belief | 5403|
 |Efficient Online Calibration for Autonomous Vehicle's Longitudinal Dynamical System: A Gaussian  Model Approach | 5410|
 |Fuzzing Mobile Robot Environments for Fast Automated Crash Detection | 5417|
 |Multimodal Safety-Critical Scenarios Generation for Decision-Making Algorithms Evaluation | 5424|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT12 : Localization and Mapping X |  |
 |Intelligent Reference Curation for Visual Place Recognition Via Bayesian Selective Fusion | 5432|
 |Accelerating Probabilistic Volumetric Mapping Using Ray-Tracing Graphics Hardware | 5440|
 |ERASOR: Egocentric Ratio of Pseudo Occupancy-Based Dynamic Object Removal for Static 3D  Point Cloud Map Building | 5446|
 |UVIP: Robust UWB Aided Visual-Inertial Positioning System for Complex Indoor Environments | 5454|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT8 : Localization and Mapping XI |  |
 |Do We Need to Compensate for Motion Distortion and Doppler Effects in Spinning Radar  Navigation? | 5461|
 |Robust Place Recognition Using an Imaging Lidar | 5469|
 |High-Speed Robot Navigation Using Predicted Occupancy Maps | 5476|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT12 : Localization and Mapping XII |  |
 |Signal Temporal Logic Synthesis As Probabilistic Inference | 5483|
 |Bias Compensated UWB Anchor Initialization Using Information-Theoretic Supported Triangulation  Points | 5490|
 |Multiresolution Representations for Large-Scale Terrain with Local Gaussian Process Regression | 5497|
 |DiSCO: Differentiable Scan Context with Orientation | 5504|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT11 : Localization and Mapping XIII |  |
 |FAST-LIO: A Fast, Robust LiDAR-Inertial Odometry Package by Tightly-Coupled Iterated Kalman  Filter | 5512|
 |BALM: Bundle Adjustment for Lidar Mapping | 5520|
 |Extrinsic Calibration of Multiple LiDARs of Small FoV in Targetless Environments | 5528|
 |MOLTR: Multiple Object Localisation, Tracking and Reconstruction from Monocular RGB Videos | 5536|
 |Efficient Modification of the Upper Triangular Square Root Matrix on Variable Reordering | 5544|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeBT2 : Localization and Mapping: Dataset |  |
 |VIODE: A Simulated Dataset to Address the Challenges of Visual-Inertial Odometry in Dynamic  Environments | 5552|
 |A Multi-spectral Dataset for Evaluating Motion Estimation Systems | 5560|
 |PicoVO: A Lightweight RGB-D Visual Odometry Targeting Resource-Constrained IoT Devices | 5567|
 |3D Surfel Map-Aided Visual Relocalization with Learned Descriptors | 5574|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT8 : Localization and Mapping: Distributed Systems |  |
 |Invariant Extended Kalman Filtering Using Two Position Receivers for Extended Pose Estimation | 5582|
 |Compartmentalized Covariance Intersection: A Novel Filter Architecture for Distributed Localization | 5589|
 |Optimizing Non-Markovian Information Gain under Physics-Based Communication Constraints | 5596|
 |Towards Robust State Estimation by Boosting the Maximum Correntropy Criterion Kalman Filter  with Adaptive Behaviors | 5603|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT9 : Localization and Mapping: LiDAR |  |
 |Robust LiDAR Feature Localization for Autonomous Vehicles Using Geometric Fingerprinting on  Open Datasets | 5610|
 |RADIATE: A Radar Dataset for Automotive Perception in Bad Weather | 5617|
 |Poisson Surface Reconstruction for LiDAR Odometry and Mapping | 5624|
 |Lidar-Monocular Surface Reconstruction Using Line Segments | 5631|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT9 : Localization and Mapping: Point Cloud |  |
 |SKD: Keypoint Detection for Point Clouds Using Saliency Estimation | 5638|
 |Panoster: End-To-End Panoptic Segmentation of LiDAR Point Clouds | 5646|
 |NDT-Transformer: Large-Scale 3D Point Cloud Localisation Using the Normal Distribution  Transform Representation | 5654|
 |PHASER: A Robust and Correspondence-Free Global Pointcloud Registration | 5661|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT8 : Localization and Mapping: Sensor Fusion I |  |
 |Asynchronous Multi-View SLAM | 5669|
 |Fusion-DHL: WiFi, IMU, and Floorplan Fusion for Dense History of Locations in Indoor  Environments | 5677|
 |Relative Position Estimation between Two UWB Devices with IMUs | 5684|
 |LVI-SAM: Tightly-Coupled Lidar-Visual-Inertial Odometry Via Smoothing and Mapping | 5692|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT7 : Localization and Mapping: Sensor Fusion II |  |
 |Visual-Laser-Inertial SLAM Using a Compact 3D Scanner for Confined Space | 5699|
 |Efficient Multi-Sensor Aided Inertial Navigation with Online Calibration | 5706|
 |Robust Monocular Visual-Inertial Depth Completion for Embedded Systems | 5713|
 |Range-Visual-Inertial Odometry: Scale Observability without Excitation | 5720|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT7 : Localization and Mapping: Sensor Fusion III |  |
 |Reconfigurable Curved Beams for Selectable Swimming Gaits in an Underwater Robot | 5728|
 |Airflow-Inertial Odometry for Resilient State Estimation on Multirotors | 5736|
 |Cirrus: A Long-Range Bi-Pattern LiDAR Dataset | 5744|
 |π-LSAM: LiDAR Smoothing and Mapping with Planes | 5751|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT7 : Localization for Robotics |  |
 |Improving Ranging-Based Location Estimation with Rigidity-Constrained CRLB-Based Motion  Planning | 5758|
 |Relative Position Estimation in Multi-Agent Systems Using Attitude-Coupled Range Measurements | 5765|
@@ -996,121 +1578,196 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |Rover Relocalization for Mars Sample Return by Virtual Template Synthesis and Matching | 5780|
 | Thrush, Tristan; Van der Merwe, Mark; Maggiolino, Gerard; Brinkman, Alexander; Mayo,  |  |
 | John; Cheng, Yang; Padgett, Curtis; Kulczycki, Eric; Detry, Renaud |  |
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT8 : Localization I |  |
 |Global Aerial Localisation Using Image and Map Embeddings | 5788|
 |UWB Indoor Global Localisation for Nonholonomic Robots with Unknown Offset Compensation | 5795|
 |Range Image-Based LiDAR Localization for Autonomous Vehicles | 5802|
 |RadarLoc: Learning to Relocalize in FMCW Radar | 5809|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET8 : Localization II |  |
 |Freetures: Localization in Signed Distance Function Maps | 5816|
 |End-To-End Semi-Supervised Learning for Differentiable Particle Filters | 5825|
 |Self-Supervised Learning of Domain-Invariant Local Features for Robust Visual Localization under  Challenging Conditions | 5832|
 |Learning to Localize in New Environments from Synthetic Training Data | 5840|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT8 : Localization III |  |
 |SoftMP: Attentive feature pooling for joint local feature detection and description for place  recognition in changing environments | 5847|
 |Resolving Place Recognition Inconsistencies Using Intra-Set Similarities | 5854|
 |Beyond ANN: Exploiting Structural Knowledge for Efficient Place Recognition | 5861|
 |Simultaneous Multi-Level Descriptor Learning and Semantic Segmentation for Domain-Specific  Relocalization | 5868|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT11 : Localization IV |  |
 |GCC-PHAT with Speech-Oriented Attention for Robotic Sound Source Localization | 5876|
 |Towards Robust GNSS Positioning and Real-Time Kinematic Using Factor Graph Optimization | 5884|
 |Camera Relocalization Using Deep Point Cloud Generation and Hand-Crafted Feature Refinement | 5891|
 |Semantic Histogram Based Graph Matching for Real-Time Multi-Robot Global Localization in  Large Scale Environment | 5898|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT7 : Machine Learning for Control |  |
 |Reinforced iLQR: A Sample-Efficient Robot Locomotion Learning | 5906|
 |Scalable Learning of Safety Guarantees for Autonomous Systems Using Hamilton-Jacobi  Reachability | 5914|
 |OmniHang: Learning to Hang Arbitrary Objects Using Contact Point Correspondences and Neural  Collision Estimation | 5921|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT11 : Machine Learning for Pose Estimation |  |
 |HueCode: A Meta-Marker Exposing Relative Pose and Additional Information in Different Colored  Layers | 5928|
 |REDE: End-To-End Object 6D Pose Robust Estimation Using Differentiable Outliers Elimination | 5935|
 |PREGAN: Pose Randomization and Estimation for Weakly Paired Image Style Translation | 5943|
 |Deep Samplable Observation Model for Global Localization and Kidnapping | 5951|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT8 : Machine Learning for Robotic Applications |  |
 |Robot in a China Shop: Using Reinforcement Learning for Location-Specific Navigation Behaviour | 5959|
 |Model Identification of a Small Fully-Actuated Aquatic Surface Vehicle Using a Long Short-Term  Memory Neural Network | 5966|
 |Real-Time Trajectory Adaptation for Quadrupedal Locomotion Using Deep Reinforcement Learning | 5973|
 |Robust Iterative Learning Control for Pneumatic Muscle with State Constraint and Model  Uncertainty | 5980|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT6 : Machine Learning I |  |
 |MCMC Occupancy Grid Mapping with a Data-Driven Patch Prior | 5988|
 |Shape-Based Transfer of Generic Skills | 5996|
 |Safety Uncertainty in Control Barrier Functions Using Gaussian Processes | 6003|
 |Object Rearrangement Using Learned Implicit Collision Functions | 6010|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT6 : Machine Learning II |  |
 |Continual Learning of Knowledge Graph Embeddings | 6018|
 |Learning Topology from Synthetic Data for Unsupervised Depth Completion | 6026|
 |PTP: Parallelized Tracking and Prediction with Graph Neural Networks and Diversity Sampling | 6034|
 |Feedback Linearization for Quadrotors with a Learned Acceleration Error Model | 6042|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT6 : Machine Learning Method for Navigation |  |
 |Bi-Directional Domain Adaptation for Sim2Real Transfer of Embodied Navigation Agents | 6049|
 |DWA-RL: Dynamically Feasible Deep Reinforcement Learning Policy for Robot Navigation among  Mobile Obstacles | 6057|
 |Reinforcement Learning for Autonomous Driving with Latent State Inference and Spatial-Temporal  Relationships | 6064|
 |A Lifelong Learning Approach to Mobile Robot Navigation | 6072|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT6 : Machine Learning: Adaptive Systems |  |
 |APPLI: Adaptive Planner Parameter Learning from Interventions | 6079|
 |APPLR: Adaptive Planner Parameter Learning from Reinforcement | 6086|
 |An Adaptive Framework For Learning Unsupervised Depth Completion | 6093|
 |PennSyn2Real: Training Object Recognition Models without Human Labeling | 6101|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT10 : Machine Learning: Applications |  |
 |Robotic Indoor Scene Captioning from Streaming Video | 6109|
 |Geometry-Aware Unsupervised Domain Adaptation for Stereo Matching | 6116|
 |Reasoning Operational Decisions for Robots Via Time Series Causal Inference | 6124|
 |Embodying Pre-Trained Word Embeddings through Robot Actions | 6132|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT5 : Manipulation and Grasping I |  |
 |Grasp Analysis and Manipulation Kinematics for Isoperimetric Truss Robots | 6140|
 |Improving Grasp Classification through Spatial Metrics Available from Sensors | 6147|
 |Assistive Supernumerary Grasping with the Back of the Hand | 6154|
 |Robotic Pick-and-Place With Uncertain Object Instance Segmentation and Shape Completion | 6161|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT5 : Manipulation and Grasping II |  |
 |Learning Dexterous Grasping with Object-Centric Visual Affordances | 6169|
 |Learning Collaborative Pushing and Grasping Policies in Dense Clutter | 6177|
 |Grasping with Chopsticks: Combating Covariate Shift in Model-Free Imitation Learning for Fine  Manipulation | 6185|
 |Siddhartha Learning Task-Oriented Dexterous Grasping from Human Knowledge | 6192|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT5 : Manipulation and Grasping III |  |
 |Decision Making in Joint Push-Grasp Action Space for Large-Scale Object Sorting | 6199|
 |Deep Affordance Foresight: Planning through What Can Be Done in the Future | 6206|
 |Learning Dense Rewards for Contact-Rich Manipulation Tasks | 6214|
 |Stefan ACRONYM: A Large-Scale Grasp Dataset Based on Simulation | 6222|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT2 : Manipulation Award Session |  |
 |KPAM 2.0: Feedback Control for Category-Level Robotic Manipulation | 6228|
 |Policy Blending and Recombination for Multimodal Contact-Rich Tasks | 6236|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT10 : Manipulation Control I |  |
 |Position and Orientation Control of Polygonal Objects by Sensorless In-Hand Caging Manipulation | 6244|
 |Non-Fixed Contact Manipulation Control Framework for Deformable Objects with Active Contact  Adjustment | 6250|
 |3D Biped Locomotion Control Including Seamless Transition between Walking and Running Via 3D  ZMP Manipulation | 6258|
 |Modeling and Balance Control of SuperArm for Overhead Tasks | 6264|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT10 : Manipulation Control II |  |
 |Generation of Efficient Rectilinear Gait Based on Dynamic Morphological Computation and Its  Theoretical Analysis | 6272|
 |Simultaneous Precision Assembly of Multiple Objects through Coordinated Micro-Robot  Manipulation | 6280|
 |Dynamic Compensation in Throwing Motion with High-Speed Robot Hand-Arm | 6287|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT9 : Manipulation Control III |  |
 |Introspective Visuomotor Control: Exploiting Uncertainty in Deep Visuomotor Control for Failure  Recovery | 6293|
 |Sim-To-Real Visual Grasping Via State Representation Learning Based on Combining Pixel-Level  and Feature-Level Domain Adaptation | 6300|
 |Dexterous Manoeuvre through Touch in a Cluttered Scene | 6308|
 |Mapless-Planner: A Robust and Fast Planning Framework for Aggressive Autonomous Flight  without Map Fusion | 6315|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT4 : Manipulation I |  |
 |Contact Localization for Robot Arms in Motion without Torque Sensing | 6322|
 |Semi-Infinite Programming with Complementarity Constraints for Pose Optimization with Pervasive  Contact | 6329|
 |Finite Horizon Synthesis for Probabilistic Manipulation Domains | 6336|
 |IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks | 6343|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT4 : Manipulation II |  |
 |Robotic Grasping through Combined Image-Based Grasp Proposal and 3D Reconstruction | 6350|
 |Attribute-Based Robotic Grasping with One-Grasp Adaptation | 6357|
 |Collision-Aware Target-Driven Object Grasping in Constrained Environments | 6364|
 |6-DoF Contrastive Grasp Proposal Network | 6371|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT4 : Manipulation III |  |
 |RASCAL: Robotic Arm for Sherds and Ceramics Automated Locomotion | 6378|
 |Reactive Planning for Mobile Manipulation Tasks in Unexplored Semantic Environments | 6385|
 |Dynamic Grasping for Object Picking Using Passive Zero-DOF End Effectors | 6393|
 |Arm-Hand Systems As Hybrid Parallel-Serial Systems: A Novel Inverse Kinematics Solution | 6401|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeAT3 : Manipulation IV |  |
 |An Integrated Approach for Determining Objects to Be Relocated and Their Goal Positions Inside  Clutter for Object Retrieval | 6408|
 |A Hybrid Position/Force Controller for Joint Robots | 6415|
 |DIMSAN: Fast Exploration with the Synergy between Density-Based Intrinsic Motivation and Self-Adaptive Action Noise | 6422|
 |A Unified Approach for Hybrid Motion Control of MOCA Based on Weighted Whole-Body Cartesian  Impedance Formulation | 6429|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT5 : Manipulation: Haptics |  |
 |Tactile-RL for Insertion: Generalization to Objects of Unknown Geometry | 6437|
 |Sim-To-Real for Robotic Tactile Sensing Via Physics-Based Simulation and Learned Latent  Projections | 6444|
 |Fingers See Things Differently (FIST-D): An Object Aware Visualization and Manipulation  Framework Based on Tactile Observations | 6452|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT2 : Manipulation: Measurement |  |
 |Mass Estimation of a Moving Object through Minimal Manipulation Interaction | 6461|
 |GelSight Wedge: Measuring High-Resolution 3D Contact Geometry with a Compact Robot Finger | 6468|
@@ -1122,11 +1779,17 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |Representation Matters: Improving Perception and Exploration for Robotics | 6512|
 | Ankush; Kulkarni, Tejas; Reynolds, Malcolm; Teplyashin, Denis; Hafner, Roland; Lampe,  |  |
 | Thomas; Riedmiller, Martin |  |
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT3 : Manipulation: Planning I |  |
 |Contact Mode Guided Sampling-Based Planning for Quasistatic Dexterous Manipulation in 2D | 6520|
 |KPAM-SC: Generalizable Manipulation Planning Using KeyPoint Affordance and Shape  Completion | 6527|
 |Alternative Paths Planner (APP) for Provably Fixed-Time Manipulation Planning in Semi-Structured  Environments | 6534|
 |Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs | 6541|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT3 : Manipulation: Planning II |  |
 |Region-Based Planning for 3D Within-Hand-Manipulation via Variable Friction Robot Fingers and  Extrinsic Contacts | 6549|
 |Planning for Multi-Stage Forceful Manipulation | 6556|
@@ -1136,10 +1799,16 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |Sami Efficient Multi-Scale POMDPs for Robotic Object Search and Delivery | 6585|
 |Path Planning for Manipulation Using Experience-Driven Random Trees | 6592|
 |Co-Optimizing Robot, Environment, and Tool Design Via Joint Manipulation Planning | 6600|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT3 : Manipulation: Real World Applications |  |
 |Robotic Slicing of Fruits and Vegetables: Modeling the Effects of Fracture Toughness and Knife  Geometry | 6607|
 |A Convex Quasistatic Time-Stepping Scheme for Rigid Multibody Systems with Contact and  Friction | 6614|
 |Uniform Object Rearrangement: From Complete Monotone Primitives to Efficient Non-Monotone  Informed Search | 6621|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT2 : Manipulation: Reinforcement Learning I |  |
 |Shaping Rewards for Reinforcement Learning with Imperfect Demonstrations Using Generative  Models | 6628|
 |DisCo RL: Distribution-Conditioned Reinforcement Learning for General-Purpose Policies | 6635|
@@ -1149,177 +1818,285 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |Reset-Free Reinforcement Learning Via Multi-Task Learning: Learning Dexterous Manipulation  Behaviors without Human Intervention | 6664|
 |Model Predictive Actor-Critic: Accelerating Robot Skill Acquisition with Deep Reinforcement  Learning | 6672|
 |Batch Exploration with Examples for Scalable Robotic Reinforcement Learning | 6679|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT7 : Mapping I |  |
 |ManhattanSLAM: Robust Planar Tracking and Mapping Leveraging Mixture of Manhattan Frames | 6687|
 |Multi-Resolution 3D Mapping with Explicit Free Space Representation for Fast and Accurate Mobile  Robot Motion Planning | 6694|
 |Weighted Node Mapping and Localisation on a Pixel Processor Array | 6702|
 |Direct Sparse Mapping | 6709|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT7 : Mapping II |  |
 |Dynamic Occupancy Grid Mapping with Recurrent Neural Networks | 6717|
 |Automatic Mapping of Tailored Landmark Representations for Automated Driving and Map  Learning | 6725|
 |Lightweight Semantic Mesh Mapping for Autonomous Vehicles | 6732|
 |LatentSLAM: Unsupervised Multi-Sensor Representation Learning for Localization and Mapping | 6739|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuIT0 : Marine RoboticsAutonomous Data Collection with Timed Communication Constraints for Unmanned Underwater  |  |
 |Vehicles | 6746|
 |Docking and Undocking a Modular Underactuated Oscillating Swimming Robot | 6754|
 |Predictive 3D Sonar Mapping of Underwater Environments via Object-Specific Bayesian Inference | 6761|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeAT7 : Mechanism and Control I |  |
 |Reciprocally Rotating Magnetic Actuation and Automatic Trajectory Following for Wireless Capsule  Endoscopy | 6768|
 |Reduced Dynamics and Control for an Autonomous Bicycle | 6775|
 |Balance Control of a Novel Wheel-Legged Robot: Design and Experiments | 6782|
 |Blending of Series-Parallel Compliant Actuation with Field-Weakening Control for Explosive Motion  Generation | 6789|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT8 : Mechanism and Control II |  |
 |Pneumatic Actuation-Based Bidirectional Modules with Variable Stiffness and Closed-Loop  Position Control | 6797|
 |A Capturability-Based Control Framework for the Underactuated Bipedal Walking | 6804|
 |Appearance-based Loop Closure Detection via Bidirectional Manifold Representation Consensus | 6811|
 |Synergetic Effect between Limbs and Spine Dynamics in Quadruped Walking Robots | 6818|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuJT0 : Mechanism and Verification |  |
 |Assumption Monitoring Using Runtime Verification for UAV Temporal Task Plan Executions | 6824|
 |Sebastian Scalable POMDP Decision-Making Using Circulant Controllers | 6831|
 |Granular Resistive Force Theory Implementation for Three-Dimensional Trajectories | 6838|
 |Implicit Integration for Articulated Bodies with Contact Via the Nonconvex Maximal Dissipation  Principle | 6846|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT6 : Mechanism Design and Control I |  |
 |Efficient and Goal-Directed Oscillations in Articulated Soft Robots: the Point-to-Point Case | 6853|
 |Visual Servoing of Cable-Driven Parallel Robots with Tension Management | 6861|
 |Automated design of underactuated monolithic soft robotics structures with multiple predefined end  poses | 6868|
 |Design and Control of a Highly Redundant Rigid–Flexible Coupling Robot to Assist the COVID-19 Oropharyngeal-Swab Sampling | 6875|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET6 : Mechanism Design and Control II |  |
 |Multifunctional Arm for Telerobotic Wind Turbine Blade Repair | 6883|
 |Modeling, Gait Sequence Design, and Control Architecture of BADGER Underground Robot | 6890|
 |Automated Behavior Tree Error Recovery Framework for Robotic Systems | 6898|
 |Design of a Magnetic Actuation System for a Microbiota-Collection Ingestible Capsule | 6905|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT9 : Mechanism Design IDevelopment of a Humanoid Shoulder Based on 3-Motor 3 Degrees-Of-Freedom Coupled  |  |
 |Tendon-Driven Joint Module | 6912|
 |Mecanum Crank: A Novel Omni-Directional Vehicle Using Crank Leg | 6919|
 |Internally-Balanced Displacement-Force Converter for Stepless Control of Spring Deformation  Compensated by Cam with Variable Pressure Angle | 6925|
 |2-DOF Spherical Parallel Mechanism Capable of Biaxial Swing Motion with Active Arc Sliders | 6933|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT9 : Mechanism Design II |  |
 |A Locally-Adaptive, Parallel-Jaw Gripper with Clamping and Rolling Capable, Soft Fingertips for  Fine Manipulation of Flexible Flat Cables | 6941|
 |Stable, Sensor-Less and Compliance-Less Module Connection for Automated Construction  System of a Modularized Rail Structure | 6948|
 |Numerical Simulations of A Novel Force Controller Serially Combining The Admittance and  Impedance Controllers | 6955|
 |Kinematic Stability Based AFG-RRT* Path Planning for Cable-Driven Parallel Robots | 6963|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeAT4 : Mechanism Design III |  |
 |Implementing Rat-Like Motion for a Small-Sized Biomimetic Robot Based on Extraction of Key  Movement Joints | 6970|
 |Design and Testing of a Damped Piezo-Driven Decoupled XYZ Stage | 6986|
 |Innovative Design and Simulation of a Transformable Robot with Flexibility and Versatility, RHex-T3 | 6992|
 |A Variable Stiffness Actuator Based on Second-order Lever Mechanism and Its Manipulator  Integration | 6999|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT8 : Mechanism Design IV |  |
 |Temperature Compensated 3D Printed Strain Sensor for Advanced Manufacturing Applications | 7006|
 |Design of a Deployable Underwater Robot for the Recovery of Autonomous Underwater Vehicles  Based on Origami Technique | 7013|
 |Modelling and Optimisation of a Mechanism-Based Metamaterial for a Wrist Flexion-Extension  Assistive Device | 7020|
 |Mechatronic Design of a Low-Noise Active Knee Prosthesis with High Backdrivability | 7027|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT8 : Mechanism Design V |  |
 |Restoring Force Design of Active Self-Healing Tension Transmission System and Application to  Tendon-Driven Legged Robot | 7033|
 |A Translational Parallel Continuum Robot Reinforced by Origami and Cross-Routing Tendons | 7039|
 |Design of a 3-DOF Coupled Tendon-Driven Waist Joint | 7046|
 |Design and Modeling of a Variable-Stiffness Spring Mechanism for Impedance Modulation in  Physical Human–Robot Interaction | 7052|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuKT0 : Mechanism Design VII |  |
 |Exploratory Hand: Leveraging Safe Contact to Facilitate Manipulation in Cluttered Spaces | 7058|
 |An Autonomous Vault-Building Robot System for Creating Spanning Structures | 7066|
 |Towards the Unification of System Design and Motion Synthesis for High-Performance Hopping  Robots | 7073|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThJT7 : Mechanism Design VI |  |
 |Neural Fidelity Warping for Efficient Robot Morphology Design | 7079|
 |Computational Design and Fabrication of Corrugated Mechanisms from Behavioral Specifications | 7087|
 |Human Driven Compliant Transmission Mechanism | 7094|
 |Design Paradigms Based on Spring Agonists for Underactuated Robot Hands: Concepts and  Application | 7100|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT3 : Mechatronics and Design Award Session |  |
 |Soft Hybrid Aerial Vehicle Via Bistable Mechanism | 7107|
 |A Versatile Inverse Kinematics Formulation for Retargeting Motions Onto Robots with Kinematic  Loops | 7114|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT7 : Medical Imaging and Sensing I |  |
 |Robust Three-Dimensional Shape Sensing for Flexible Endoscopic Surgery Using Multi-Core FBG  Sensors | 7122|
 |Robot-To-Image Registration with Geometric Marker for CT-Guided Robotic Needle Insertion | 7130|
 |Shape Sensor Using Magnetic Induction with Frequency Sweeping for Medical Catheters | 7137|
 |Robotically Surgical Vessel Localization Using Robust Hybrid Video Motion Magnification | 7144|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeAT6 : Medical Imaging and Sensing II |  |
 |Generalized Point Set Registration with the Kent Distribution | 7151|
 |Self-Supervised Learning for Monocular Depth Estimation on Minimally Invasive Surgery Scenes | 7159|
 |Dianmin; Doermann, DavidIntermittent Visual Servoing: Efficiently Learning Policies Robust to Instrument Changes for High-Precision Surgical Manipulation | 7166|
 |Towards Fully Autonomous Ultrasound Scanning Robot with Imitation Learning Based on Clinical  Protocols | 7174|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThKT6 : Micro/Nano Robotics I |  |
 |Tailored Magnetic Torsion Springs for Miniature Magnetic Robots | 7182|
 |Real-Time Teleoperation of Magnetic Force-Driven Microrobots with 3D Haptic Force Feedback for  Micro-Navigation and Micro-Transportation | 7189|
 |Yaw Control of a Hovering Flapping-Wing Aerial Vehicle with a Passive Wing Hinge | 7197|
 |Automated End-Effector Alignment for Robotic Cell Manipulation | 7205|
 |A High-Voltage Power Electronics Unit for Flying Insect Robots That Can Modulate Wing Thrust | 7212|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThKT7 : Micro/Nano Robotics III |  |
 |Residual Model Learning for Microrobot Control | 7219|
 |Small Autonomous Robot Actuator (SARA): A Solar-Powered Wireless MEMS Gripper | 7227|
 |Path Planning and Tracking for an Underactuated Two-Microrobot System | 7234|
 |Tiny Robot Learning (tinyRL) for Source Seeking on a Nano Quadcopter | 7242|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeCT4 : Micro/Nano Robotics IV |  |
 |Micro Robotic Manipulation System for the Force Stimulation of Muscle Fiber-Like Cell Structure | 7249|
 |Fukuda, ToshioAutomated Fabrication of the High-Fidelity Cellular Micro-Scaffold through Proportion-Corrective  Control of the Photocuring Process | 7255|
 |A Versatile Vision-Pheromone-Communication Platform for Swarm Robotics | 7261|
 |3D Periodic Magnetic Servoing System for Microrobot Actuation Using Decoupled Asynchronous  Repetitive Control Approach | 7267|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeBT6 : Micro/Nano Robotis II |  |
 |Modeling and Control of an Untethered Magnetic Gripper | 7274|
 |A Flexible Magnetic Field Mapping Model for Calibration of Magnetic Manipulation System | 7281|
 |Dynamic Tracking of Microrobot with Active Magnetic Sensor Array | 7288|
 |Dynamic Modeling of Magnetic Helical Microrobots | 7295|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThJT6 : Model Learning for Control |  |
 |Batteries, Camera, Action! Learning a Semantic Control Space for Expressive Robot  Cinematography | 7302|
 |Sim-To-Real Learning of All Common Bipedal Gaits Via Periodic Reward Composition | 7309|
 |Agile Robot Navigation through Hallucinated Learning and Sober Deployment | 7316|
 |Nonholonomic Yaw Control of an Underactuated Flying Robot with Model-Based Reinforcement  Learning | 7323|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThHT19 : Model Predictive Control I |  |
 |High-Frequency Nonlinear Model Predictive Control of a Manipulator | 7330|
 |Adaptive Nonlinear Model Predictive Control for Autonomous Surface Vessels with Largely Varying  Payload | 7337|
 |Time-Varying Model Predictive Control for Highly Dynamic Motions of Quadrupedal Robots | 7344|
 |Koopman NMPC: Koopman-Based Learning and Nonlinear Model Predictive Control of Control-Affine Systems | 7350|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThHT6 : Model Predictive Control II |  |
 |ALTRO-C: A Fast Solver for Conic Model-Predictive Control | 7357|
 |Model Predictive Control of Nonlinear Latent Force Models: A Scenario-Based Approach | 7365|
 |The Value of Planning for Infinite-Horizon Model Predictive Control | 7372|
 |Automatic Tuning for Data-Driven Model Predictive Control | 7379|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeCT5 : Motion and Path Planning I |  |
 |Efficient Heuristic Generation for Robot Path Planning with Recurrent Generative Model | 7386|
 |Scalable Coverage Path Planning of Multi-Robot Teams for Monitoring Non-Convex Areas | 7393|
 |Time and Energy Optimized Trajectory Generation for Multi-Agent Constellation Changes | 7400|
 |Towards an Online RRT-Based Path Planning Algorithm forAckermann-Steering Vehicles | 7407|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT7 : Motion and Path Planning II |  |
 |A Global-Local Coupling Two-Stage Path Planning Method for Mobile Robots | 7414|
 |Learn to Navigate Maplessly with Varied LiDAR Configurations: A Support Point-Based Approach | 7422|
 |Fast Replanning Multi-Heuristic A* | 7430|
 |Generating Large-Scale Trajectories Efficiently Using Double Descriptions of Polynomials | 7436|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThIT6 : Motion and Path Planning III |  |
 |AXLE: Computationally-Efficient Trajectory Smoothing Using Factor Graph Chains | 7443|
 |Computationally-Efficient Roadmap-based Inspection Planning via Incremental Lazy Search | 7449|
 |Multi-Query Serverless Motion Planning for Fog Robotics | 7457|
 |Composable Geometric Motion Policies using Multi-Task Pullback Bundle Dynamical Systems | 7464|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThKT5 : Motion and Path Planning IV |  |
 |A Gravity-Referenced Moving Frame for Vehicle Path Following Applications in 3D | 7471|
 |Safe, Optimal, Real-Time Trajectory Planning with a Parallel Constrained Bernstein Algorithm | 7479|
 |A Spatial Searching Method for Planning under Time Dependent Constraints for Eco-Driving in  Signalized Traffic Intersection | 7495|
 |A Generalized A* Algorithm for Finding Globally Optimal Paths in Weighted Colored Graphs | 7503|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThHT22 : Motion and Path Planning V |  |
 |Chance Constrained Simultaneous Path Planning and Task Assignment with Bottleneck Objective | 7510|
 |Planning with Attitude | 7517|
 |Constrained Path Planning and Guidance in General Wind Fields | 7526|
 |LTO: Lazy Trajectory Optimization with Graph-Search Planning for High DOF Robots in Cluttered  Environments | 7533|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThIT22 : Motion Control for Manipulators I |  |
 |Emergent Hand Morphology and Control from Optimizing Robust Grasps of Diverse Objects | 7540|
 |Generalizing Object-Centric Task-Axes Controllers Using Keypoints | 7548|
 |Dynamic Primitives and Optimal Feedback Control for the Manipulation of Complex Objects | 7555|
 |Learning Reactive and Predictive Differentiable Controllers for Switching Linear Dynamical Models | 7563|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT6 : Motion Control for Manipulators II |  |
 |Globally Optimal Online Redundancy Resolution for Serial 7-DOF Kinematics Along SE(3) Trajectories | 7570|
 |A Real-Time-Capable Closed-Form Multi-Objective Redundancy Resolution Scheme for Seven-DoF Serial Manipulators | 7577|
 |Robot Arm Motion Planning Based on Geodesics | 7585|
 |FlexDMP - Extending Dynamic Movement Primitives towards Flexible Joint Robots | 7592|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT6 : Motion Estimation |  |
 |Unsupervised 3D Motion Estimation of Vehicles Using ICP | 7599|
 |CNN-Based Ego-Motion Estimation for Fast MAV Maneuvers | 7606|
 |Mid-Air Range-Visual-Inertial Estimator Initialization for Micro Air Vehicles | 7613|
 |Pose Estimation for Vehicle-Mounted Cameras Via Horizontal and Vertical Planes | 7620|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT7 : Motion Planning and Control I |  |
 |SA-LOAM: Semantic-Aided LiDAR SLAM with Loop Closure | 7627|
 |Reinforcement Learning-Based Visual Navigation with Information-Theoretic Regularization | 7635|
 |An On-Line POMDP Solver for Continuous Observation Spaces | 7643|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT6 : Motion Planning and Control II |  |
 |NEO: A Novel Expeditious Optimisation Algorithm for Reactive Motion Control of Manipulators | 7650|
 |Optimized Method for Planning and Controlling the Somersault Motion of Quadruped Robot | 7658|
 |Motion Coupling Analysis for the Decoupled Design of a Two-Segment Notched Continuum Robot | 7665|
 |VINS-Motion: Tightly-Coupled Fusion of VINS and Motion Constraint | 7672|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThIT23 : Motion Planning for Aerial Robotics |  |
 |The Reachable Set of a Drone: Exploring the Position Isochrones for a Quadcopter | 7679|
 |Two-Stage Trajectory Optimization for Flapping Flight with Data-Driven Models | 7686|
@@ -1329,11 +2106,17 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |Robust & Asymptotically Locally Optimal UAV-Trajectory Generation Based on Spline Subdivision | 7715|
 |Vehicle Trajectory Prediction Using Generative Adversarial Network with Temporal Logic Syntax  Tree Features | 7722|
 |Autonomous Vehicle Motion Planning Via Recurrent Spline Optimization | 7730|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThHT21 : Motion Planning for Surgical Robots |  |
 |Bimanual Regrasping for Suture Needles Using Reinforcement Learning for Rapid Motion Planning | 7737|
 |Dual-Arm Needle Manipulation with the Da Vinci® Surgical Robot under Uncertainty | 7744|
 |Learning Surgical Motion Pattern from Small Data in Endoscopic Sinus and Skull Base Surgeries | 7751|
 |Backward Planning for a Multi-Stage Steerable Needle Lung Robot | 7758|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThIT21 : Motion Planning for Task-Specific Robots I |  |
 |A Primitive-Based Approach to Good Seamanship Path Planning for Autonomous Surface Vessels | 7767|
 |A Scavenger Hunt for Service Robots | 7774|
@@ -1343,106 +2126,169 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |Piecewise-Linear Motion Planning Amidst Static, Moving, or Morphing Obstacles | 7802|
 |Smooth Path Planning for Continuum Arms | 7809|
 |Anticipatory Path Planning for Continuum Arms in Dynamic Environments | 7815|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuDT5 : Motion Planning I |  |
 |Reactive Navigation in Crowds for Non-holonomic Robots with Convex Bounding Shape | 7821|
 |NavRep: Unsupervised Representations for Reinforcement Learning of Robot Navigation in  Dynamic Human Environments | 7829|
 |Scenario-Based Trajectory Optimization in Uncertain Dynamic Environments | 7836|
 |High Speed Planning in Unknown Environments for Multirotors Considering Drag | 7844|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET5 : Motion Planning II |  |
 |Sparse Multilevel Roadmaps for High-Dimensional Robotic Motion Planning | 7851|
 |Saliency Features for 3D CAD-Data in the Context of Sampling-Based Motion Planning | 7858|
 |Search-Based Planning of Dynamic MAV Trajectories Using Local Multiresolution State Lattices | 7865|
 |Bench-MR: A Motion Planning Benchmark for Wheeled Mobile Robots | 7872|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT5 : Motion Planning III |  |
 |Expansive Voronoi Tree: A Motion Planner for Assembly Sequence Planning | 7880|
 |MS2MP: A Min-Sum Message Passing Algorithm for Motion Planning | 7887|
 |Cubic Bézier Local Path Planner for Non-Holonomic Feasible and Comfortable Path Generation | 7894|
 |Voxplan: A 3D Global Planner Using Signed Distance Function Submaps | 7901|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeBT13 : Motion Planning in Automation |  |
 |Prediction-Based Reachability for Collision Avoidance in Autonomous Driving | 7908|
 |Lane-free Autonomous Intersection Management: A Batch-processing Framework Integrating  Reservation-based and Planning-based Methods | 7915|
 |Pheromone-Diffusion-Based Conscientious Reactive Path Planning for Road Network Persistent  Surveillance | 7922|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThKT21 : Motion Planning in Multi-Agents System I |  |
 |Towards Safe Motion Planning in Human Workspaces: A Robust Multi-Agent Approach | 7929|
 |Anytime Fault-Tolerant Adaptive Routing for Multi-Robot Teams | 7936|
 |Exploiting Collisions for Sampling-Based Multicopter Motion Planning | 7943|
 |Multi-Robot Motion Planning with Unlabeled Goals for Mobile Robots with Differential Constraints | 7950|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThHT20 : Motion Planning in Multi-Agents System II |  |
 |A Visibility Roadmap Sampling Approach for a Multi-Robot Visibility-Based Pursuit-Evasion  Problem | 7957|
 |Time-Optimal Multi-Quadrotor Trajectory Planning for Pesticide Spraying | 7965|
 |Do You See What I See? Coordinating Multiple Aerial Cameras for Robot Cinematography | 7972|
 |MIDAS: Multi-Agent Interaction-Aware Decision-Making with Adaptive Strategies for Urban  Autonomous Navigation | 7980|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThIT20 : Motion Planning in Multi-Agents System III |  |
 |Scalable Active Information Acquisition for Multi-Robot Systems | 7987|
 |MAPS-X: Explainable Multi-Robot Motion Planning Via Segmentation | 7994|
 |Representation-Optimal Multi-Robot Motion Planning Using Conflict-Based Search | 8001|
 |Spatial and Temporal Splitting Heuristics for Multi-Robot Motion Planning | 8009|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThJT20 : Motion Planning IV |  |
 |Multi-Hypothesis Interactions in Game-Theoretic Motion Planning | 8016|
 |An Approximation Algorithm for an Assisted Shortest Path Problem | 8024|
 |TAMPC: A Controller for Escaping Traps in Novel Environments | 8031|
 |Projector-Guided Non-Holonomic Mobile 3D Printing | 8039|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT5 : Motion Planning V |  |
 |Learning from Simulation, Racing in Reality | 8046|
 |Equality Constrained Differential Dynamic Programming | 8053|
 |Learning Constrained Distributions of Robot Configurations with Generative Adversarial Network | 8060|
 |Shape-Preserving and Reactive Adaptation of Robot End-Effector Trajectories | 8068|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET4 : Motion Planning VI |  |
 |Image Representation of a City and Its Taxi Fleet for End-To-End Learning of Rebalancing Policies | 8076|
 |COLREGs-Informed RRT* for Collision Avoidance of Marine Crafts | 8083|
 |Learning to Robustly Negotiate Bi-Directional Lane Usage in High-Conflict Driving Scenarios | 8090|
 |Self-Supervised Motion Retargeting with Safety Guarantee | 8097|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThKT20 : Motion Planning with Partial Information |  |
 |Data-Based Control of Partially-Observed Robotic Systems | 8104|
 |Partial Information Target Defense Game | 8111|
 |Stochastic Motion Planning under Partial Observability for Mobile Robots with Continuous Range  Measurements | 8118|
 |Long-Horizon Motion Planning for Autonomous Vehicle Parking Incorporating Incomplete Map  Information | 8135|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT6 : Motion Planning: Autonomous Driving |  |
 |ICurb: Imitation Learning-Based Detection of Road Curbs Using Aerial Images for Autonomous  Driving | 8143|
 |Search-Based Online Trajectory Planning for Car-Like Robots in Highly Dynamic Environments | 8151|
 |Task-Space Decomposed Motion Planning Framework for Multi-Robot Loco-Manipulation | 8158|
 |SMT-Based Optimal Deployment of Mobile Robot Rechargers | 8165|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT6 : Motion Planning: Collision Avoidance |  |
 |VR-ORCA: Variable Responsibility Optimal Reciprocal Collision Avoidance | 8172|
 |Dynamic Window Approach with Human Imitating Collision Avoidance | 8180|
 |Disruption-Resistant Deformable Object Manipulation on Basis of Online Shape Estimation and  Prediction-Driven Trajectory Correction | 8187|
 |Dynamic Movement Primitive Based Motion Retargeting for Dual-Arm Sign Language Motions | 8195|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuFT4 : Motion Planning: Control |  |
 |Whole Body Model Predictive Control with Memory of Motion: Experiments on a Torque-Controlled  TALOS | 8202|
 | Guilhem; Stasse, Olivier; Fernbach, Pierre; Tonneau, Steve; Calinon, Sylvain; Vijayakumar,  |  |
 |Sethu; Taïx, Michel; Mansard, Nicolas Constraint Handling in Continuous-Time DDP-Based Model Predictive Control | 8209|
 |Sparsity-Inducing Optimal Control Via Differential Dynamic Programming | 8216|
 |Sethu A Passive Navigation Planning Algorithm for Collision-Free Control of Mobile Robots | 8223|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeAT13 : Motion Planning: Decision |  |
 |TIE: Time-Informed Exploration for Robot Motion Planning | 8230|
 |MRPB 1.0: A Unified Benchmark for the Evaluation of Mobile Robot Local Planning Approaches | 8238|
 |Belief Space Partitioning for Symbolic Motion Planning | 8245|
 |Anticipatory Planning and Dynamic Lost Person Models for Human-Robot Search and Rescue | 8252|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT4 : Motion Planning: Kinematics and Dynamics |  |
 |The Virtual Wheel Concept for the Singularity-Free Kinematic and Dynamic Modeling of Pseudo-Omnidirectional Vehicles | 8259|
 |Collision-Free MPC for Legged Robots in Static and Dynamic Scenes | 8266|
 |Temporal Coupling of Dynamical Movement Primitives for Constrained Velocities and  Accelerations | 8273|
 |Obstacle Avoidance with Kinetic Energy Buffer | 8280|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeBT5 : Motion Planning: Learning |  |
 |Tra2Tra: Trajectory-To-Trajectory Prediction with a Global Social Spatial-Temporal Attentive  Neural Network | 8287|
 |Remote-Center-Of-Motion Recommendation Toward Brain Needle Intervention Using Deep  Reinforcement Learning | 8295|
 |Autonomous Navigation of an Ultrasound Probe towards Standard Scan Planes with Deep  Reinforcement Learning | 8302|
 |A Knowledge-Based Fast Motion Planning Method through Online Environmental Feature Learning | 8309|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuAT5 : Motion Planning: Learning-Based Prediction |  |
 |Uncertainty-aware Non-linear Model Predictive Control for Human-following Companion Robot | 8316|
 |Path Planning in Uncertain Ocean Currents Using Ensemble Forecasts | 8323|
 |Distributed Motion Coordination Using Convex Feasible Set Based Model Predictive Control | 8330|
 |Risk Conditioned Distributional Soft Actor-Critic for Risk-Sensitive Navigation | 8337|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET3 : Motion Planning: Legged Robots |  |
 |Optimization-Inspired Controller Design for Transient Legged Locomotion | 8345|
 |Multi-Layered Safety for Legged Robots Via Control Barrier Functions and Model Predictive Control | 8352|
 |Agile Actions with a Centaur-Type Humanoid: A Decoupled Approach | 8359|
 |Combined Sampling and Optimization Based Planning for Legged-Wheeled Robots | 8366|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeAT5 : Motion Planning: Manipulator |  |
 |Robot Motion Planning with Human-Like Motion Patterns based on Human Arm Movement  Primitive Chains | 8373|
 |A Model-Free Synchronous Control of Humanoid Robot Finger | 8380|
 |An Overall Configuration Planning Method of Continuum Hyper-Redundant Manipulators Based on  Improved Artificial Potential Field Method | 8386|
 |Autonomous UAV Exploration of Dynamic Environments Via Incremental Sampling and  Probabilistic Roadmap | 8394|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT5 : Motion Planning: Optimization |  |
 |Smooth-RRT*: Asymptotically Optimal Motion Planning for Mobile Robots under Kinodynamic  Constraints | 8402|
 |Continuous Optimization-Based Task and Motion Planning with Signal Temporal Logic  Specifications for Sequential Manipulation | 8409|
@@ -1452,11 +2298,17 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |Real-Time Obstacle Avoidance with a Virtual Torque Approach for a Robotic Tool in the End  Effector | 8436|
 |A Robotic Platform to Navigate MRI-Guided Focused Ultrasound System | 8443|
 |Approximating Constraint Manifolds Using Generative Models for Sampling-Based Constrained  Motion Planning | 8451|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT4 : Motion Planning: Semantic Scene |  |
 |Anticipatory Navigation in Crowds by Probabilistic Prediction of Pedestrian Future Movements | 8458|
 |Real-Time Human Lower Limbs Motion Estimation and Feedback for Potential Applications in  Robotic Gait Aid and Training | 8465|
 |Virtual Surfaces and Attitude Aware Planning and Behaviours for Negative Obstacle Navigation | 8472|
 |Cost-To-Go Function Generating Networks for High Dimensional Motion Planning | 8480|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT4 : Motion Planning: Task-Based Planning |  |
 |Integrated Task Assignment and Path Planning for Capacitated Multi-Agent Pickup and Delivery | 8487|
 |Social Trajectory Planning for Urban Autonomous Surface Vessels | 8495|
@@ -1466,227 +2318,362 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |Satoshi; Ragaglia, Matteo; Sugiura, Hisashi; Niccolini, Marta Feasible and Adaptive Multimodal Trajectory Prediction with Semantic Maneuver Fusion | 8530|
 |Exploiting Latent Representation of Sparse Semantic Layers for Improved Short-Term Motion  Prediction with Capsule Networks | 8537|
 |Movement Recognition and Prediction Using DMPs | 8544|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThJT22 : Motion Prediction in Navigation |  |
 |Occupancy Map Inpainting for Online Robot Navigation | 8551|
 |Ellipse Loss for Scene-Compliant Motion Prediction | 8558|
 |Predictive Runtime Monitoring for Mobile Robots Using Logic-Based Bayesian Intent Inference | 8565|
 |BiTraP: Bi-Directional Pedestrian Trajectory Prediction with Multi-Modal Goal Estimation | 8572|
 |Graph-SIM: A Graph-Based Spatiotemporal Interaction Modelling for Pedestrian Action Prediction | 8580|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThJT19 : Multiple and Distributed Intelligence |  |
 |Multi-Robot Distributed Semantic Mapping in Unfamiliar Environments through Online Matching of  Learned Representations | 8587|
 |Learning to Herd Agents Amongst Obstacles: Training Robust Shepherding Behaviors Using Deep  Reinforcement Learning | 8594|
 |Sensor Placement for Globally Optimal Coverage of 3D-Embedded Surfaces | 8600|
 |Reachability Analysis for FollowerStopper: Safety Analysis and Experimental Results | 8607|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT2 : Multiple and Distributed Systems I |  |
 |PRIMAL2: Pathfinding Via Reinforcement and Imitation Multi-Agent Learning - Lifelong | 8614|
 |Consensus-Based Control Barrier Function for Swarm | 8623|
 |Bayesian Disturbance Injection: Robust Imitation Learning of Flexible Policies | 8629|
 |Active Modular Environment for Robot Navigation | 8636|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT2 : Multiple and Distributed Systems II |  |
 |Command Filtered Tracking Control for High-Order Systems with Limited Transmission Bandwidth | 8643|
 |Online Trajectory Planning for Multiple Quadrotors in Dynamic Environments Using Relative Safe  Flight Corridor | 8649|
 |Multi-Scale Cost Volumes Cascade Network for Stereo Matching | 8657|
 |Hierarchical MCTS for Scalable Multi-Vessel Multi-Float Systems | 8664|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT3 : Multiple and Distributed Systems III |  |
 |Deep Reinforcement Learning of Event-Triggered Communication and Control for Multi-Agent  Cooperative Transport | 8671|
 |Multi-Robot Task Allocation Games in Dynamically Changing Environments | 8678|
 |An Upper Confidence Bound for Simultaneous Exploration and Exploitation in Heterogeneous  Multi-Robot Systems | 8685|
 |Johnson, David; Yoo, Chanyeol; Fitch, RobertPriority Patrolling Using Multiple Agents | 8692|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT3 : Multiple and Distributed Systems IV |  |
 |Distributed Heuristic Multi-Agent Path Finding with Communication | 8699|
 |Distributed PDOP Coverage Control: Providing Large-Scale Positioning Service Using a Multi-Robot System | 8706|
 |Autonomous Distributed System for Gait Generation for Single-Legged Modular Robots Connected  in Various Configurations | 8714|
 |A Distributed Two-Layer Framework for Teleoperated Platooning of Fixed-Wing UAVs Via  Decomposition and Backstepping | 8734|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThIT18 : Multiple and Distributed Systems IX |  |
 |PuzzleBots: Physical Coupling of Robot Swarms | 8742|
 |Spatial Intention Maps for Multi-Agent Mobile Manipulation | 8749|
 |Flocking-Segregative Swarming Behaviors Using Gibbs Random Fields | 8757|
 |Multi-Agent Ergodic Coverage in Urban Environments | 8764|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeBT4 : Multiple and Distributed Systems V |  |
 |Multi-Target Coverage with Connectivity Maintenance Using Knowledge-Incorporated Policy  Framework | 8772|
 |SMMR-Explore: SubMap-Based Multi-Robot Exploration System with Multi-Robot Multi-Target  Potential Field Exploration Method | 8779|
 |Multi-Objective Conflict-Based Search for Multi-Agent Path Finding | 8786|
 |Simultaneous Calibration of Multi-Coordinates for a Dual-Robot System by Solving the AXB=YCZ  Problem | 8792|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeAT11 : Multiple and Distributed Systems VI |  |
 |Pylot: A Modular Platform for Exploring Latency-Accuracy Tradeoffs in Autonomous Vehicles | 8806|
 |Decentralized Circle Formation Control for Fish-Like Robots in Real-World Via Reinforcement  Learning | 8814|
 |Graph Connectivity Control of a Mobile Robot Network with Mixed Dynamic Multi-Tasks | 8821|
 |Distributed Rendezvous Control of Networked Uncertain Robotic Systems with Bearing  Measurements | 8829|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThJT18 : Multiple and Distributed Systems VII |  |
 |Flow-FL: Data-Driven Federated Learning for Spatio-Temporal Predictions in Multi-Robot Systems | 8836|
 |CHORD: Distributed Data-Sharing Via Hybrid ROS 1 and 2 for Multi-Robot Exploration of Large-Scale Complex Environments | 8843|
 |ROS-NetSim: A Framework for the Integration of Robotic and Network Simulators | 8851|
 |Non-Monotone Energy-Aware Information Gathering for Heterogeneous Robot Teams | 8859|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThKT19 : Multiple and Distributed Systems VIII |  |
 |Probabilistic Resilience of Dynamic Multi-Robot Systems | 8866|
 |Distributed Topology Correction for Flexible Connectivity Maintenance in Multi-Robot Systems | 8874|
 |Decentralized Nested Gaussian Processes for Multi-Robot Systems | 8881|
 |Cascaded Filtering Using the Sigma Point Transformation | 8888|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThHT18 : Multiple and Distributed Systems X |  |
 |The Robotarium: Automation of a Remotely Accessible, Multi-Robot Testbed | 8896|
 |Multiplexing Robot Experiments: Theoretical Underpinnings, Conditions for Existence, and  Demonstrations | 8904|
 |SMAC: Symbiotic Multi-Agent Construction | 8911|
 |Efficient Multi-Robot Inspection of Row Crops Via Kernel Estimation and Region-Based Task  Allocation | 8919|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThKT18 : Multiple and Distributed Systems XI |  |
 |An Adaptive Fuzzy Reinforcement Learning Cooperative Approach for the Autonomous Control of  Flock Systems | 8927|
 |Optimal Sequential Stochastic Deployment of Multiple Passenger Robots | 8934|
 |Online Connectivity-Aware Dynamic Deployment for Multi-Robot System | 8941|
 |Achieving Multitasking Robots in Multi-Robot Tasks | 8948|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThHT17 : Multiple and Distributed Systems: Control |  |
 |Communication-Aware Multi-Robot Coordination with Submodular Maximization | 8955|
 |Controllability and Stabilization for Herding a Robotic Swarm Using a Leader: A Mean-Field  Approach | 8962|
 |Online Flocking Control of UAVs with Mean-Field Approximation | 8977|
 |Proportional and Reachable Cluster Teleoperation of a Distributed Multi-Robot System | 8984|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThIT17 : Multiple and Distributed Systems: Monitoring and Planning I |  |
 |Planning of Heterogeneous Multi-Agent Systems under Signal Temporal Logic Specifications with  Integral Predicates | 8991|
 |Multi-Agent Aerial Monitoring of Moving Convoys using Elliptical Orbits | 8999|
 |LUCIDGames: Online Unscented Inverse Dynamic Games for Adaptive Trajectory Prediction and  Planning | 9006|
 |Event-Based Signal Temporal Logic Synthesis for Single and Multi-Robot Tasks | 9014|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThJT17 : Multiple and Distributed Systems: Monitoring and Planning II |  |
 |Affordable Autonomy through Cooperative Sensing and Planning | 9022|
 |Reachable Polyhedral Marching (RPM): A Safety Verification Algorithm for Robotic Systems with Deep Neural Network Components | 9029|
 |Multi-Robot Dynamical Source Seeking in Unknown Environments | 9036|
 |Volumetric Objectives for Multi-Robot Exploration of Three-Dimensional Environments | 9043|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThKT17 : Multiple and Distributed Systems: Perception |  |
 |Adaptation to Team Composition Changes for Heterogeneous Multi-Robot Sensor Coverage | 9051|
 |Distributed Multi-Target Tracking for Heterogeneous Mobile Sensing Networks with Limited Field of  Views | 9058|
 |Safety with Limited Range Sensing Constraints for Fixed Wing Aircraft | 9065|
 |A Queue-Stabilizing Framework for Networked Multi-Robot Exploration | 9072|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThHT16 : Multiple and Distributed Systems: Search Algorithm |  |
 |Multi-Robot Gaussian Process Estimation and Coverage: A Deterministic Sequencing Algorithm  and Regret Analysis | 9080|
 |Multi-agent Receding Horizon Search with Terminal Cost | 9086|
 |Shaped Policy Search for Evolutionary Strategies Using Waypoints | 9093|
 |Multi-Agent Active Search Using Realistic Depth-Aware Noise Model | 9101|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThIT16 : Multiple and Distributed Systems: Task Allocation |  |
 |Fair Robust Assignment Using Redundancy | 9109|
 |Fast Near-Optimal Heterogeneous Task Allocation Via Flow Decomposition | 9117|
 |Data-Driven Adaptive Task Allocation for Heterogeneous Multi-Robot Teams Using Robust Control  Barrier Functions | 9124|
 |Resilient Task Allocation in Heterogeneous Multi-Robot Systems | 9131|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET2 : Multi-Robot Systems I |  |
 |Self-Organised Saliency Detection and Representation in Robot Swarms | 9139|
 |A Practical Method to Cover Evenly a Dynamic Region with a Swarm | 9147|
 |Robust Distributed Estimation of the Algebraic Connectivity for Networked Multi-Robot Systems | 9155|
 |ModGNN: Expert Policy Approximation in Multi-Agent Systems with a Modular Graph Neural  Network Architecture | 9161|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT3 : Multi-Robot Systems II |  |
 |WRAPP-Up: A Dual-Arm Robot for Intralogistics | 9168|
 | Chiara; Gugliotta, Marco; Settimi, Alessandro; Catalano, Manuel Giuseppe; Grioli,  |  |
 |Giorgio; Pallottino, Lucia A Laser-Based Dual-Arm System for Precise Control of Collaborative Robots | 9183|
 |Near-Optimal Multi-Robot Motion Planning with Finite Sampling | 9190|
 |Whole-Body Real-Time Motion Planning for Multicopters | 9197|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT3 : Multi-Robotic Systems Award Session |  |
 |Self-Organized Evasive Fountain Maneuvers with a Bioinspired Underwater Robot Collective | 9204|
 |Learning Multi-Arm Manipulation through Collaborative Teleoperation | 9212|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThIT19 : Multi-View Perception |  |
 |Probabilistic Multi-View Fusion of Active Stereo Depth Maps for Robotic Bin-Picking | 9220|
 |Multi-View Sensor Fusion by Integrating Model-Based Estimation and Graph Learning for  Collaborative Object Localization | 9228|
 |Deep Multi-View Depth Estimation with Predicted Uncertainty | 9235|
 |MultiViewStereoNet: Fast Multi-View Stereo Depth Estimation Using Incremental Viewpoint-Compensated Feature Extraction | 9242|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuBT0 : Navigation and Mapping |  |
 |Differential Information Aided 3-D Registration for Accurate Navigation and Scene Reconstruction | 9249|
 |MingAutonomous Navigation in Dynamic Environments with Multi-Modal Perception Uncertainties | 9255|
 |Learning World Transition Model for Socially Aware Robot Navigation | 9262|
 |Probabilistic Dynamic Crowd Prediction for Social Navigation | 9269|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuCT0 : Navigation in Humanoids and Animaloids |  |
 |Autonomous Decentralized Shape-Based Navigation for Snake Robots in Dense Environments | 9276|
 |Real-Time Optimal Navigation Planning Using Learned Motion Costs | 9283|
 |Humanoid Loco-Manipulation Planning Based on Graph Search and Reachability Maps | 9290|
 |Autonomous Navigation for Adaptive Unmanned Underwater Vehicles Using Fiducial Markers | 9298|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThDT4 : Novel Applications I |  |
 |OpenBot: Turning Smartphones into Robots | 9305|
 |Quasi-LPV Unknown Input Observer with Nonlinear Outputs: Application to Motorcycles | 9312|
 |A Novel Torsional Actuator Augmenting Twisting Skeleton and Artificial Muscle for Robots in  Extreme Environments | 9318|
 |Compact Digital Microrobot Based on Multistable Modules | 9325|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeCT2 : Novel Applications II |  |
 |A General Elimination Strategy for Camera Motion Estimation | 9333|
 |Group Feature Learning and Domain Adversarial Neural Network for aMCI Diagnosis System Based on EEG | 9340|
 |Line-Based Automatic Extrinsic Calibration of LiDAR and Camera | 9347|
 |RIL: Riemannian Incremental Learning of the Inertial Properties of the Robot Body Schema | 9354|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThET4 : Novel Applications III |  |
 |ChoiRbot: A ROS 2 Toolbox for Cooperative Robotics | 9361|
 |Formal Verification of ROS Based Systems Using a Linear Logic Theorem Prover | 9368|
 |Fuzz Testing in Behavior-Based Robotics | 9375|
 |The Robot Household Marathon Experiment | 9382|
 | Sebastian; Beetz, Michael |  |
+
+| title | index |
+| ---  | ----  |
 | **Session** WeCT9 : Novel Applications IV |  |
 |Sliding Mode Control of the Semi-Active Hover Backpack Based on the Bioinspired Skyhook  Damper Model | 9389|
 |Fast Light Show Design Platform for K-12 Children | 9396|
 |Autonomous Overtaking in Gran Turismo Sport Using Curriculum Reinforcement Learning | 9403|
 |An MR Safe Rotary Encoder Based on Eccentric Sheave and FBG Sensors | 9410|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThFT5 : Novel Applications V |  |
 |A Relative Dynamics Formulation for Hardware-In-The-Loop Simulation of On-Orbit Robotic  Missions | 9417|
 |Structured Prediction for CRiSP Inverse Kinematics Learning with Misspecified Robot Models | 9425|
 |Rapid Solution of Cosserat Rod Equations Via a Nonlinear Partial Observer | 9433|
 |The Effects of Robot Cognitive Reliability and Social Positioning on Child-Robot Team Dynamics | 9439|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThET5 : Novel Applications: Manipulation |  |
 |ProbRobScene: A Probabilistic Specification Language for 3D Robotic Manipulation Environments | 9446|
 |Towards Real-Time Interaction with Industrial Robots in the Creative Industries | 9453|
 |Automated Acquisition of Structured, Semantic Models of Manipulation Activities from Human VR  Demonstration | 9460|
 |A Shared Control Framework for Robotic Telemanipulation Combining Electromyography Based  Motion Estimation and Compliance Control | 9467|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeBT10 : Novel Design Technologies |  |
 |NeuralSim: Augmenting Differentiable Simulators with Neural Networks | 9474|
 |V-Stability Based Control for Energy-Saving towards Long Range Sailing* | 9482|
 |Continuous Transition: Improving Sample Efficiency for Continuous Control Problems Via MixUp | 9490|
 |Effective Crash Recovery of Robot Software Programs in ROS | 9498|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThFT4 : Object Detection and Segmentation I |  |
 |Self-Supervised Visual Terrain Classification from Unsupervised Acoustic Feature Learning | 9505|
 |Fast Few-Shot Classification by Few-Iteration Meta-Learning | 9522|
 |Deep Hierarchical Rotation Invariance Learning with Exact Geometry Feature Representation for  Point Cloud Classification | 9529|
 |Fool Me Once: Robust Selective Segmentation Via Out-Of-Distribution Detection with Contrastive  Learning | 9536|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThJT16 : Object Recognition and Segmentation II |  |
 |TORNADO-Net: MulTiview tOtal vaRiatioN semAntic Segmentation with Diamond inceptiOn  Module | 9543|
 |Lite-HDSeg: LiDAR Semantic Segmentation Using Lite Harmonic Dense Convolutions | 9550|
 |Real-Time Semantic Segmentation with Fast Attention | 9557|
 |A Graph-Based Method for Joint Instance Segmentation of Point Clouds and Image Sequences | 9565|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThKT16 : Object Recognition and Segmentation III |  |
 |Fusing RGBD Tracking and Segmentation Tree Sampling for Multi-Hypothesis Volumetric  Segmentation | 9572|
 |YolactEdge: Real-Time Instance Segmentation on the Edge | 9579|
 |Learning Panoptic Segmentation from Instance Contours | 9586|
 |0-MMS: Zero-Shot Multi-Motion Segmentation with a Monocular Event Camera | 9594|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThFT3 : Odometry I |  |
 |Self-Supervised Learning of LiDAR Odometry for Robotic Applications | 9601|
 |Tight Integration of Feature-based Relocalization in Monocular Direct Visual Odometry | 9608|
 |Continuous Scale-Space Direct Image Alignment for Visual Odometry from RGB-D Images | 9615|
 |Unified Multi-Modal Landmark Tracking for Tightly Coupled Lidar-Visual-Inertial Odometry | 9623|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThDT5 : Odometry II |  |
 |Simple but Effective Redundant Odometry for Autonomous Vehicles | 9631|
 |Markov Localisation Using Heatmap Regression and Deep Convolutional Odometry | 9638|
 |R-LOAM: Improving LiDAR Odometry and Mapping with Point-To-Mesh Features of a Known 3D  Reference Object | 9645|
 |Autonomous Cooperative Visual Navigation for Planetary Exploration Robots | 9653|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThET6 : Optimal Control for Motion Planning |  |
 |Optimal TCP and Robot Base Placement for a Set of Complex Continuous Paths | 9659|
 |Control-Tree Optimization: An Approach to MPC under Discrete Partial Observability | 9666|
 |Leveraging Neural Network Gradients within Trajectory Optimization for Proactive Human-Robot  Interactions | 9673|
 |Gramian-based optimal active sensing control under intermittent measurements | 9680|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuHT22 : Optimization |  |
 |A Complete, Accurate and Efficient Solution for the Perspective-N-Line Problem | 9687|
 |Accelerating Robot Dynamics Gradients on a CPU, GPU, and FPGA | 9695|
 |Srini; Janapa Reddi, Vijay Accelerating Combinatorial Filter Reduction through Constraints | 9703|
 |Persistent Covering with Latency and Energy Constraints | 9710|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThHT15 : Optimization and Control I |  |
 |Equality Constrained Linear Optimal Control with Factor Graphs | 9717|
 |Robust Optimization-based Motion Planning for high-DOF Robots under Sensing Uncertainty | 9724|
 |Optimized Coverage Planning for UV Surface Disinfection | 9731|
 |Constrained Differential Dynamic Programming Revisited | 9738|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThIT15 : Optimization and Control II |  |
 |Computing All Solutions to a Discretization-Invariant Formulation for Optimal Mechanism Design | 9745|
 |Optimal Multi-Manipulator Arm Placement for Maximal Dexterity During Robotics Surgery | 9752|
 |Balancing Stability and Stiffness through Optimization of Parallel Compliance | 9759|
 |Direct Policy Optimization Using Deterministic Sampling and Collocation | 9767|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThFT6 : Optimization and Control III |  |
 |Linear-Quadratic Optimal Control in Maximal Coordinates | 9775|
 |Safe and Efficient Model-Free Adaptive Control Via Bayesian Optimization | 9782|
 |Data-efficient Domain Randomization with Bayesian Optimization | 9789|
 |Adaptive Robust Kernels for Non-Linear Least Squares Problems | 9797|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThET7 : Optimization for Legged RobotsReceding-Horizon Perceptive Trajectory Optimization for Dynamic Legged Locomotion with  |  |
 |Learned Initialization | 9805|
 |Trajectory Optimization of Contact-Rich Motions Using Implicit Differential Dynamic Programming | 9812|
 |Friction-Driven Three-Foot Robot Inspired by Snail Movement | 9820|
 |Modeling and Optimal Control for Rope-Assisted Rappelling Maneuvers | 9826|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThDT7 : Optimization for Multi-Robot Systems |  |
 |General-Sum Multi-Agent Continuous Inverse Optimal Control | 9833|
 |Shared Control of Robot-Robot Collaborative Lifting with Agent Postural and Force Ergonomic  Optimization | 9840|
 |Rapidly Adapting Robot Swarms with Swarm Map-Based Bayesian Optimisation | 9848|
 |GPU Accelerated Convex Approximations for Fast Multi-Agent Trajectory Optimization | 9855|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThIT14 : Optimization in Robotic Design I |  |
 |Multi-Objective Graph Heuristic Search for Terrestrial Robot Design | 9863|
 |Factor Graph-Based Trajectory Optimization for a Pneumatically-Actuated Jumping Robot | 9870|
@@ -1696,11 +2683,17 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |Computational Design of Energy-Efficient Legged Robots: Optimizing for Size and Actuators | 9898|
 |On the Effect of Robotic Leg Design on Energy Efficiency | 9905|
 |Elastic Structure Preserving Control for Compliant Robots Driven by Agonistic-Antagonistic Actuators (ESPaa) | 9912|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThJT15 : Optimization-Based Motion Planning I |  |
 |Contact-Implicit Trajectory Optimization with Learned Deformable Contacts Using Bilevel  Optimization | 9921|
 |Energy-Optimal Path Planning with Active Flow Perception for Autonomous Underwater Vehicles | 9928|
 |Double Meta-Learning for Data Efficient Policy Optimization in Non-Stationary Environments | 9935|
 |Adversarial Attacks on Optimization Based Planners | 9943|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThKT15 : Optimization-Based Motion Planning II |  |
 |Strobe: An Acceleration Meta-Algorithm for Optimizing Robot Paths Using Concurrent Interleaved  Sub-Epoch Pods | 9950|
 |Designing Multi-Stage Coupled Convex Programming with Data-Driven McCormick Envelope  Relaxations for Motion Planning | 9957|
@@ -1710,31 +2703,49 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 |Asymptotically Optimal Kinodynamic Planning Using Bundles of Edges | 9988|
 |CollisionIK: A Per-Instant Pose Optimization Method for Generating Robot Motions with  Environment Collision Avoidance | 9995|
 |Trajectory Optimization for Manipulation of Deformable Objects: Assembly of Belt Drive Units | 10002|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThFT7 : Path Planning for Multiple Mobile Robots |  |
 |Hierarchical and Flexible Traffic Management of Multi-AGV Systems Applied to Industrial  Environments | 10009|
 |Combining Multi-Robot Motion Planning and Goal Allocation Using Roadmaps | 10016|
 |Asynchronous Reliability-Aware Multi-UAV Coverage Path Planning | 10023|
 |Distributed Coordinated Path Following Using Guiding Vector Fields | 10030|
+
+| title | index |
+| ---  | ----  |
 | **Session** WeBT16 : Path Planning for Multiple Robots |  |
 |An Efficient Parallel Self-Assembly Planning Algorithm for Modular Robots in Environments with  Obstacles | 10038|
 |Multi-Robot Informative Path Planning Using a Leader-Follower Architecture | 10045|
 |Tightly-Coupled Perception and Navigation of Heterogeneous Land-Air Robots in Complex  Scenarios | 10052|
 |Fully Distributed Cooperation for Networked Uncertain Mobile Manipulators | 10059|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThET8 : Path Planning I |  |
 |FT-BSP: Focused Topological Belief Space Planning | 10079|
 |Path Planning for a Reconfigurable Robot in Extreme Environments | 10087|
 |AM-RRT*: Informed Sampling-Based Planning with Assisting Metric | 10093|
 |Complete Path Planning That Simultaneously Optimizes Length and Clearance | 10100|
+
+| title | index |
+| ---  | ----  |
 | **Session** ThFT8 : Path Planning II |  |
 |On Smooth Time-Optimal Trajectory Planning in Twisted String Actuators | 10107|
 |Fast Swing-Up Trajectory Optimization for a Spherical Pendulum on a 7-DoF Collaborative Robot | 10114|
 |Surface-Based Path Following Control: Application of Curved Tapes on 3D Objects | 10121|
 |Human-Robot Collaborative Multi-Agent Path Planning Using Monte Carlo Tree Search and Social  Reward Sources | 10133|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuET0 : Perception for Manipulation I |  |
 |Embodied Reasoning for Discovering Object Properties Via Manipulation | 10139|
 |Robust High-Transparency Haptic Exploration for Dexterous Telemanipulation | 10146|
 |Unsupervised Feature Learning for Manipulation with Contrastive Domain Randomization | 10153|
 |"What's This?" - Learning to Segment Unknown Objects from Manipulation Sequences | 10160|
+
+| title | index |
+| ---  | ----  |
 | **Session** TuGT0 : Perception for Manipulation II |  |
 |Polyhedral Friction Cone Estimator for Object Manipulation | 10168|
 |Interpretability in Contact-Rich Manipulation via Kinodynamic Images | 10175|
